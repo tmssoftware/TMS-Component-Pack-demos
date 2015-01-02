@@ -1,0 +1,13 @@
+program planevents;
+
+uses
+  Forms,
+  Uplanevents in 'Uplanevents.pas' {Form1};
+
+{$R *.RES}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

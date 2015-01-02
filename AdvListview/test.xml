@@ -1,0 +1,210 @@
+<?XML version="1.0"?>
+<CARLIST>
+<CAR>
+<Car>Audi</Car>
+<Type>A6 2.8</Type>
+<Cylinders>6</Cylinders>
+<Intro>5/2/96</Intro>
+<Power>193pk</Power>
+<Price>$ 42,400</Price>
+<Web>$ 42,400</Web>
+</CAR>
+<CAR>
+<Car>BMW</Car>
+<Type>323i</Type>
+<Cylinders>6</Cylinders>
+<Intro>5/9/98</Intro>
+<Power>170pk</Power>
+<Price>$ 34,000</Price>
+<Web>http://www.bmw.com</Web>
+</CAR>
+<CAR>
+<Car>BMW</Car>
+<Type>528i</Type>
+<Cylinders>6</Cylinders>
+<Intro>1/8/97</Intro>
+<Power>193pk</Power>
+<Price>$ 43,000</Price>
+<Web>http://www.bmw.com</Web>
+</CAR>
+<CAR>
+<Car>BMW</Car>
+<Type>740i</Type>
+<Cylinders>8</Cylinders>
+<Intro>1/1/92</Intro>
+<Power>286pk</Power>
+<Price>$ 77,000</Price>
+<Web>http://www.bmw.com</Web>
+</CAR>
+<CAR>
+<Car>BMW</Car>
+<Type>Z3 M</Type>
+<Cylinders>6</Cylinders>
+<Intro>1/6/97</Intro>
+<Power>321pk</Power>
+<Price>$ 54,000</Price>
+<Web>http://www.bmw.com</Web>
+</CAR>
+<CAR>
+<Car>De Tomaso</Car>
+<Type>Guara</Type>
+<Cylinders>8</Cylinders>
+<Intro>1/10/97</Intro>
+<Power>286pk</Power>
+<Price>$ 122,000</Price>
+<Web>$ 122,000</Web>
+</CAR>
+<CAR>
+<Car>Ferrari</Car>
+<Type>550</Type>
+<Cylinders>12</Cylinders>
+<Intro>1/9/96</Intro>
+<Power>485pk</Power>
+<Price>$ 204,390</Price>
+<Web>http://www.ferrari.it</Web>
+</CAR>
+<CAR>
+<Car>Ferrari</Car>
+<Type>F355 GTS</Type>
+<Cylinders>8</Cylinders>
+<Intro>15/4/95</Intro>
+<Power>380pk</Power>
+<Price>$ 142,000</Price>
+<Web>http://www.ferrari.it</Web>
+</CAR>
+<CAR>
+<Car>Ford</Car>
+<Type>Probe</Type>
+<Cylinders>6</Cylinders>
+<Intro>10/11/96</Intro>
+<Power></Power>
+<Price></Price>
+<Web></Web>
+</CAR>
+<CAR>
+<Car>Honda</Car>
+<Type>NSX</Type>
+<Cylinders>6</Cylinders>
+<Intro>20/3/94</Intro>
+<Power>280pk</Power>
+<Price>$ 104,890</Price>
+<Web>$ 104,890</Web>
+</CAR>
+<CAR>
+<Car>Lamborghini</Car>
+<Type>Diablo SV</Type>
+<Cylinders>12</Cylinders>
+<Intro>5/10/97</Intro>
+<Power>500pk</Power>
+<Price>$ 200,280</Price>
+<Web>$ 200,280</Web>
+</CAR>
+<CAR>
+<Car>MG</Car>
+<Type>MGF</Type>
+<Cylinders>4</Cylinders>
+<Intro>5/10/97</Intro>
+<Power>120pk</Power>
+<Price>$ 24,480</Price>
+<Web>$ 24,480</Web>
+</CAR>
+<CAR>
+<Car>Mercedes</Car>
+<Type>C230</Type>
+<Cylinders>4</Cylinders>
+<Intro>15/2/96</Intro>
+<Power>193pk</Power>
+<Price>$ 34,750</Price>
+<Web>http://www.mercedes-benz.de</Web>
+</CAR>
+<CAR>
+<Car>Mercedes</Car>
+<Type>CLK320</Type>
+<Cylinders>6</Cylinders>
+<Intro>1/6/97</Intro>
+<Power>218pk</Power>
+<Price>$ 47,200</Price>
+<Web>http://www.mercedes-benz.de</Web>
+</CAR>
+<CAR>
+<Car>Mercedes</Car>
+<Type>SL600</Type>
+<Cylinders>8</Cylinders>
+<Intro>1/8/96</Intro>
+<Power>394pk</Power>
+<Price>$ 135,600</Price>
+<Web>http://www.mercedes-benz.de</Web>
+</CAR>
+<CAR>
+<Car>Mercedes</Car>
+<Type>SLK230</Type>
+<Cylinders>4</Cylinders>
+<Intro>1/1/96</Intro>
+<Power>193pk</Power>
+<Price>$ 38,350</Price>
+<Web>http://www.mercedes-benz.de</Web>
+</CAR>
+<CAR>
+<Car>Nissan</Car>
+<Type>Micra</Type>
+<Cylinders>4</Cylinders>
+<Intro>12/12/89</Intro>
+<Power>55pk</Power>
+<Price>$ 8,350</Price>
+<Web>$ 8,350</Web>
+</CAR>
+<CAR>
+<Car>Opel</Car>
+<Type>Calibra</Type>
+<Cylinders>4</Cylinders>
+<Intro>20/2/96</Intro>
+<Power></Power>
+<Price></Price>
+<Web></Web>
+</CAR>
+<CAR>
+<Car>Porsche</Car>
+<Type>Boxster</Type>
+<Cylinders>6</Cylinders>
+<Intro>17/4/97</Intro>
+<Power>204pk</Power>
+<Price>$ 44,000</Price>
+<Web>http://www.porsche-usa.com</Web>
+</CAR>
+<CAR>
+<Car>Renault</Car>
+<Type>Megane</Type>
+<Cylinders>4</Cylinders>
+<Intro>14/5/96</Intro>
+<Power>90pk</Power>
+<Price>$ 18,405</Price>
+<Web>$ 18,405</Web>
+</CAR>
+<CAR>
+<Car>Rover</Car>
+<Type>620si</Type>
+<Cylinders>4</Cylinders>
+<Intro>3/12/95</Intro>
+<Power>131pk</Power>
+<Price>$ 25,837</Price>
+<Web>$ 25,837</Web>
+</CAR>
+<CAR>
+<Car>TVR</Car>
+<Type>Griffith 500</Type>
+<Cylinders>8</Cylinders>
+<Intro>3/8/96</Intro>
+<Power>305pk</Power>
+<Price>$ 58,550</Price>
+<Web>$ 58,550</Web>
+</CAR>
+<CAR>
+<Car>Wiessman</Car>
+<Type>MF 28</Type>
+<Cylinders>6</Cylinders>
+<Intro>1/1/97</Intro>
+<Power>286pk</Power>
+<Price></Price>
+<Web></Web>
+</CAR>
+</CARLIST>

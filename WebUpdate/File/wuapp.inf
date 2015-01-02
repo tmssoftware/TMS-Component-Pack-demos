@@ -1,0 +1,24 @@
+[update]
+date=2/4/2001
+
+[action]
+msg=This is a file based update
+
+[whatsnew]
+file=c:\newapp\whatsnew.txt
+
+[files]
+count=2
+
+[file1]
+url=c:\newapp\wuapp.cab
+
+[file2]
+url=c:\newapp\wudoc.cab
+compressed=1
+
+[application]
+appupdate=1
+appname=wuapp.exe
+appcomps=wuapp.cab
+

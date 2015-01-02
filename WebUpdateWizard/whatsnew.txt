@@ -1,0 +1,23 @@
+TWebUpdate v1.6 © 2004 TMS software 
+for Delphi 4,5,6,7 & C++Builder 4,5,6
+
+What's new in TWebUpdate v1.6 :
+
+New : Auto login handling for http password protected sites  
+New : Capture patcher output to log file
+New : Autorun and autostart for wizard
+New : Animation during patcher run
+New : hide patcher console window
+New : fix for cab extract file timestamp
+New : Multilanguage wizard support, English, French, Dutch, German, Portugese
+New : Agent property
+New : Customizable wizard billboard
+New : LanguageID property added to allow 'What's new' and 'EULA' files customized per language
+New : Mandatory vs non mandatory application components support added
+New : Hidden vs non hidden application components support added
+New : Automatic removal of CAB & Patch files after extract
+New : Enhanced logging for easier tracing of update process
+New : Added control file for processing CAB, LZ-expanded, Patch files after application shutdown
+New : TMS WebUpdate developers guide
+Improved : UpdateBuilder for building update process control files
+Various smaller improvements & fixes

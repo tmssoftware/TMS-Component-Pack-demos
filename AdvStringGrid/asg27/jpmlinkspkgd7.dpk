@@ -1,0 +1,52 @@
+package jpmlinkspkgd7;
+
+{$R *.res}
+{$R 'jpmlinks.dcr'}
+{$R 'jpmelinks.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS ON}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  tms,
+  adortl,
+  dbrtl,
+  addict3_d7,
+  bdertl,
+  vclx,
+  designide,
+  vclactnband,
+  CEToolsPkgd7,
+  vcljpg,
+  indy,
+  tee,
+  vcldb,
+  VclSmp,
+  jpmopencompd7;
+
+contains
+  jpmlinks in 'jpmlinks.pas',
+  jpmelinks in 'jpmelinks.pas';
+
+end.

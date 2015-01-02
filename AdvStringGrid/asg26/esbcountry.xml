@@ -1,0 +1,2561 @@
+<?xml version="1.0"?>
+
+<Root_Element>
+   <ESBCountries>
+      <Country>
+         <DisplayName>Afghanistan</DisplayName>
+         <ISOA2>af</ISOA2>
+         <ISOA3>afg</ISOA3>
+         <FormalName>Islamic State of Afghanistan</FormalName>
+         <Capital>Kabul</Capital>
+         <ISOCode>4</ISOCode>
+         <PhCode>93</PhCode>
+         <Population>26813057</Population>
+         <Area>647500</Area>
+      </Country>
+      <Country>
+         <DisplayName>Albania</DisplayName>
+         <ISOA2>al</ISOA2>
+         <ISOA3>alb</ISOA3>
+         <FormalName>Republic of Albania</FormalName>
+         <Capital>Tirana</Capital>
+         <ISOCode>8</ISOCode>
+         <PhCode>355</PhCode>
+         <Population>3510484</Population>
+         <Area>28748</Area>
+      </Country>
+      <Country>
+         <DisplayName>Algeria</DisplayName>
+         <ISOA2>dz</ISOA2>
+         <ISOA3>dza</ISOA3>
+         <FormalName>People's Democratic Republic of Algeria</FormalName>
+         <Capital>Algiers</Capital>
+         <ISOCode>12</ISOCode>
+         <PhCode>213</PhCode>
+         <Population>31736053</Population>
+         <Area>2381740</Area>
+      </Country>
+      <Country>
+         <DisplayName>American Samoa</DisplayName>
+         <ISOA2>as</ISOA2>
+         <ISOA3>asm</ISOA3>
+         <FormalName>Territory of American Samoa</FormalName>
+         <Capital>Pago Pago</Capital>
+         <ISOCode>16</ISOCode>
+         <PhCode>684</PhCode>
+         <Population>67084</Population>
+         <Area>199</Area>
+      </Country>
+      <Country>
+         <DisplayName>Andorra</DisplayName>
+         <ISOA2>ad</ISOA2>
+         <ISOA3>and</ISOA3>
+         <FormalName>Principality of Andorra</FormalName>
+         <Capital>Andorra la Vella</Capital>
+         <ISOCode>20</ISOCode>
+         <PhCode>376</PhCode>
+         <Population>67627</Population>
+         <Area>468</Area>
+      </Country>
+      <Country>
+         <DisplayName>Angola</DisplayName>
+         <ISOA2>ao</ISOA2>
+         <ISOA3>ago</ISOA3>
+         <FormalName>Republic of Angola</FormalName>
+         <Capital>Luanda</Capital>
+         <ISOCode>24</ISOCode>
+         <PhCode>244</PhCode>
+         <Population>10366031</Population>
+         <Area>1246700</Area>
+      </Country>
+      <Country>
+         <DisplayName>Anguilla</DisplayName>
+         <ISOA2>ai</ISOA2>
+         <ISOA3>aia</ISOA3>
+         <Capital>The Valley</Capital>
+         <ISOCode>660</ISOCode>
+         <PhCode>1264</PhCode>
+         <Population>12132</Population>
+         <Area>91</Area>
+      </Country>
+      <Country>
+         <DisplayName>Antarctica</DisplayName>
+         <ISOA2>aq</ISOA2>
+         <ISOA3>ata</ISOA3>
+         <ISOCode>10</ISOCode>
+         <PhCode>672</PhCode>
+         <Area>14000000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Antigua and Barbuda</DisplayName>
+         <ISOA2>ag</ISOA2>
+         <ISOA3>atg</ISOA3>
+         <Capital>Saint John's</Capital>
+         <ISOCode>28</ISOCode>
+         <PhCode>1268</PhCode>
+         <Population>66970</Population>
+         <Area>442</Area>
+      </Country>
+      <Country>
+         <DisplayName>Argentina</DisplayName>
+         <ISOA2>ar</ISOA2>
+         <ISOA3>arg</ISOA3>
+         <FormalName>Argentine Republic</FormalName>
+         <Capital>Buenos Aires</Capital>
+         <ISOCode>32</ISOCode>
+         <PhCode>54</PhCode>
+         <Population>37384816</Population>
+         <Area>2766890</Area>
+      </Country>
+      <Country>
+         <DisplayName>Armenia</DisplayName>
+         <ISOA2>am</ISOA2>
+         <ISOA3>arm</ISOA3>
+         <FormalName>Republic of Armenia</FormalName>
+         <Capital>Yerevan</Capital>
+         <ISOCode>51</ISOCode>
+         <PhCode>374</PhCode>
+         <Population>3336100</Population>
+         <Area>29800</Area>
+      </Country>
+      <Country>
+         <DisplayName>Aruba</DisplayName>
+         <ISOA2>aw</ISOA2>
+         <ISOA3>abw</ISOA3>
+         <Capital>Oranjestad</Capital>
+         <ISOCode>533</ISOCode>
+         <PhCode>297</PhCode>
+         <Population>70007</Population>
+         <Area>193</Area>
+      </Country>
+      <Country>
+         <DisplayName>Australia</DisplayName>
+         <ISOA2>au</ISOA2>
+         <ISOA3>aus</ISOA3>
+         <FormalName>Commonwealth of Australia</FormalName>
+         <Capital>Canberra</Capital>
+         <ISOCode>36</ISOCode>
+         <PhCode>61</PhCode>
+         <Population>19357594</Population>
+         <Area>7686850</Area>
+      </Country>
+      <Country>
+         <DisplayName>Austria</DisplayName>
+         <ISOA2>at</ISOA2>
+         <ISOA3>aut</ISOA3>
+         <FormalName>Republic of Austria</FormalName>
+         <Capital>Vienna</Capital>
+         <ISOCode>40</ISOCode>
+         <PhCode>43</PhCode>
+         <Population>8150835</Population>
+         <Area>83858</Area>
+      </Country>
+      <Country>
+         <DisplayName>Azerbaijan</DisplayName>
+         <ISOA2>az</ISOA2>
+         <ISOA3>aze</ISOA3>
+         <FormalName>Republic of Azebaijani</FormalName>
+         <Capital>Baku</Capital>
+         <ISOCode>31</ISOCode>
+         <PhCode>994</PhCode>
+         <Population>7771092</Population>
+         <Area>86600</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bahamas</DisplayName>
+         <ISOA2>bs</ISOA2>
+         <ISOA3>bhs</ISOA3>
+         <FormalName>Commonwealth of The Bahamas</FormalName>
+         <Capital>Nassau</Capital>
+         <ISOCode>44</ISOCode>
+         <PhCode>1242</PhCode>
+         <Population>297852</Population>
+         <Area>13940</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bahrain</DisplayName>
+         <ISOA2>bh</ISOA2>
+         <ISOA3>bhr</ISOA3>
+         <FormalName>State of Bahrain</FormalName>
+         <Capital>Manama</Capital>
+         <ISOCode>48</ISOCode>
+         <PhCode>973</PhCode>
+         <Population>645361</Population>
+         <Area>620</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bangladesh</DisplayName>
+         <ISOA2>bd</ISOA2>
+         <ISOA3>bgd</ISOA3>
+         <FormalName>People's Republic of Bangladesh</FormalName>
+         <Capital>Dhaka</Capital>
+         <ISOCode>50</ISOCode>
+         <PhCode>880</PhCode>
+         <Population>131269860</Population>
+         <Area>144000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Barbados</DisplayName>
+         <ISOA2>bb</ISOA2>
+         <ISOA3>brb</ISOA3>
+         <Capital>Bridgetown</Capital>
+         <ISOCode>52</ISOCode>
+         <PhCode>1246</PhCode>
+         <Population>275330</Population>
+         <Area>430</Area>
+      </Country>
+      <Country>
+         <DisplayName>Belarus</DisplayName>
+         <ISOA2>by</ISOA2>
+         <ISOA3>blr</ISOA3>
+         <FormalName>Republic of Belarus</FormalName>
+         <Capital>Minsk</Capital>
+         <ISOCode>112</ISOCode>
+         <PhCode>375</PhCode>
+         <Population>10350194</Population>
+         <Area>207600</Area>
+      </Country>
+      <Country>
+         <DisplayName>Belgium</DisplayName>
+         <ISOA2>be</ISOA2>
+         <ISOA3>bel</ISOA3>
+         <FormalName>Kingdom of Belgium</FormalName>
+         <Capital>Brussels</Capital>
+         <ISOCode>56</ISOCode>
+         <PhCode>32</PhCode>
+         <Population>10258762</Population>
+         <Area>30510</Area>
+      </Country>
+      <Country>
+         <DisplayName>Belize</DisplayName>
+         <ISOA2>bz</ISOA2>
+         <ISOA3>blz</ISOA3>
+         <Capital>Belmopan</Capital>
+         <ISOCode>84</ISOCode>
+         <PhCode>501</PhCode>
+         <Population>256062</Population>
+         <Area>22966</Area>
+      </Country>
+      <Country>
+         <DisplayName>Benin</DisplayName>
+         <ISOA2>bj</ISOA2>
+         <ISOA3>ben</ISOA3>
+         <FormalName>Republic of Benin</FormalName>
+         <Capital>Porto-Novo</Capital>
+         <ISOCode>204</ISOCode>
+         <PhCode>229</PhCode>
+         <Population>6590782</Population>
+         <Area>112620</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bermuda</DisplayName>
+         <ISOA2>bm</ISOA2>
+         <ISOA3>bmu</ISOA3>
+         <Capital>Hamilton</Capital>
+         <ISOCode>60</ISOCode>
+         <PhCode>1441</PhCode>
+         <Population>63503</Population>
+         <Area>59</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bhutan</DisplayName>
+         <ISOA2>bt</ISOA2>
+         <ISOA3>btn</ISOA3>
+         <FormalName>Kingdom of Bhutan</FormalName>
+         <Capital>Thimphu</Capital>
+         <ISOCode>64</ISOCode>
+         <PhCode>975</PhCode>
+         <Population>2049412</Population>
+         <Area>47000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bolivia</DisplayName>
+         <ISOA2>bo</ISOA2>
+         <ISOA3>bol</ISOA3>
+         <FormalName>Republic of Bolivia</FormalName>
+         <Capital>Sucre</Capital>
+         <ISOCode>68</ISOCode>
+         <PhCode>591</PhCode>
+         <Population>8300463</Population>
+         <Area>1098580</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bosnia and Herzegovina</DisplayName>
+         <ISOA2>ba</ISOA2>
+         <ISOA3>bih</ISOA3>
+         <Capital>Sarajevo</Capital>
+         <ISOCode>70</ISOCode>
+         <PhCode>387</PhCode>
+         <Population>3922205</Population>
+         <Area>51129</Area>
+      </Country>
+      <Country>
+         <DisplayName>Botswana</DisplayName>
+         <ISOA2>bw</ISOA2>
+         <ISOA3>bwa</ISOA3>
+         <FormalName>Republic of Botswana</FormalName>
+         <Capital>Gaborone</Capital>
+         <ISOCode>72</ISOCode>
+         <PhCode>267</PhCode>
+         <Population>1586119</Population>
+         <Area>600370</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bouvet Island</DisplayName>
+         <ISOA2>bv</ISOA2>
+         <ISOA3>bvt</ISOA3>
+         <ISOCode>74</ISOCode>
+         <Area>59</Area>
+      </Country>
+      <Country>
+         <DisplayName>Brazil</DisplayName>
+         <ISOA2>br</ISOA2>
+         <ISOA3>bra</ISOA3>
+         <FormalName>Federative Republic of Brazil</FormalName>
+         <Capital>Brasilia</Capital>
+         <ISOCode>76</ISOCode>
+         <PhCode>55</PhCode>
+         <Population>174468575</Population>
+         <Area>8511965</Area>
+      </Country>
+      <Country>
+         <DisplayName>British Indian Ocean Territory</DisplayName>
+         <ISOA2>io</ISOA2>
+         <ISOA3>iot</ISOA3>
+         <ISOCode>86</ISOCode>
+         <Area>60</Area>
+      </Country>
+      <Country>
+         <DisplayName>Brunei Darussalam</DisplayName>
+         <ISOA2>bn</ISOA2>
+         <ISOA3>brn</ISOA3>
+         <FormalName>Negara Brunei Darussalam</FormalName>
+         <Capital>Bandar Seri Begawan </Capital>
+         <ISOCode>96</ISOCode>
+         <PhCode>673</PhCode>
+         <Population>343653</Population>
+         <Area>5770</Area>
+      </Country>
+      <Country>
+         <DisplayName>Bulgaria</DisplayName>
+         <ISOA2>bg</ISOA2>
+         <ISOA3>bgr</ISOA3>
+         <FormalName>Republic of Bulgaria</FormalName>
+         <Capital>Sofia</Capital>
+         <ISOCode>100</ISOCode>
+         <PhCode>359</PhCode>
+         <Population>7707495</Population>
+         <Area>110910</Area>
+      </Country>
+      <Country>
+         <DisplayName>Burkina Faso</DisplayName>
+         <ISOA2>bf</ISOA2>
+         <ISOA3>bfa</ISOA3>
+         <Capital>Ouagadougou</Capital>
+         <ISOCode>854</ISOCode>
+         <PhCode>226</PhCode>
+         <Population>12272289</Population>
+         <Area>274200</Area>
+      </Country>
+      <Country>
+         <DisplayName>Burundi</DisplayName>
+         <ISOA2>bi</ISOA2>
+         <ISOA3>bdi</ISOA3>
+         <FormalName>Republic of Burundi</FormalName>
+         <Capital>Bujumbura</Capital>
+         <ISOCode>108</ISOCode>
+         <PhCode>257</PhCode>
+         <Population>6223897</Population>
+         <Area>27830</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cambodia</DisplayName>
+         <ISOA2>kh</ISOA2>
+         <ISOA3>khm</ISOA3>
+         <FormalName>Kingdom of Cambodia</FormalName>
+         <Capital>Phnom Penh</Capital>
+         <ISOCode>116</ISOCode>
+         <PhCode>855</PhCode>
+         <Population>12491501</Population>
+         <Area>181040</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cameroon</DisplayName>
+         <ISOA2>cm</ISOA2>
+         <ISOA3>cmr</ISOA3>
+         <FormalName>Republic of Cameroon</FormalName>
+         <Capital>Yaounde</Capital>
+         <ISOCode>120</ISOCode>
+         <PhCode>237</PhCode>
+         <Population>15803220</Population>
+         <Area>475440</Area>
+      </Country>
+      <Country>
+         <DisplayName>Canada</DisplayName>
+         <ISOA2>ca</ISOA2>
+         <ISOA3>can</ISOA3>
+         <Capital>Ottawa</Capital>
+         <ISOCode>124</ISOCode>
+         <PhCode>1</PhCode>
+         <Population>31592805</Population>
+         <Area>9976140</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cape Verde</DisplayName>
+         <ISOA2>cv</ISOA2>
+         <ISOA3>cpv</ISOA3>
+         <FormalName>Republic of Cape Verde</FormalName>
+         <Capital>Praia</Capital>
+         <ISOCode>132</ISOCode>
+         <PhCode>238</PhCode>
+         <Population>405163</Population>
+         <Area>4033</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cayman Islands</DisplayName>
+         <ISOA2>cy</ISOA2>
+         <ISOA3>cym</ISOA3>
+         <Capital>George Town </Capital>
+         <ISOCode>136</ISOCode>
+         <PhCode>1345</PhCode>
+         <Population>35527</Population>
+         <Area>259</Area>
+      </Country>
+      <Country>
+         <DisplayName>Central African Republic</DisplayName>
+         <ISOA2>cf</ISOA2>
+         <ISOA3>caf</ISOA3>
+         <Capital>Bangui </Capital>
+         <ISOCode>140</ISOCode>
+         <PhCode>236</PhCode>
+         <Population>3576884</Population>
+         <Area>622984</Area>
+      </Country>
+      <Country>
+         <DisplayName>Chad</DisplayName>
+         <ISOA2>td</ISOA2>
+         <ISOA3>tcd</ISOA3>
+         <FormalName>Republic of Chad</FormalName>
+         <Capital>N'Djamena </Capital>
+         <ISOCode>148</ISOCode>
+         <PhCode>235</PhCode>
+         <Population>8707078</Population>
+         <Area>1284000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Chile</DisplayName>
+         <ISOA2>cl</ISOA2>
+         <ISOA3>chl</ISOA3>
+         <FormalName>Republic of Chile</FormalName>
+         <Capital>Santiago</Capital>
+         <ISOCode>152</ISOCode>
+         <PhCode>56</PhCode>
+         <Population>15328467</Population>
+         <Area>756950</Area>
+      </Country>
+      <Country>
+         <DisplayName>China</DisplayName>
+         <ISOA2>cn</ISOA2>
+         <ISOA3>chn</ISOA3>
+         <FormalName>People's Republic of China</FormalName>
+         <Capital>Beijing</Capital>
+         <ISOCode>156</ISOCode>
+         <PhCode>86</PhCode>
+         <Population>1273111290</Population>
+         <Area>9596960</Area>
+      </Country>
+      <Country>
+         <DisplayName>Christmas Island</DisplayName>
+         <ISOA2>cx</ISOA2>
+         <ISOA3>cxr</ISOA3>
+         <FormalName>Territory of Chistmas Island</FormalName>
+         <Capital>The Settlement</Capital>
+         <ISOCode>162</ISOCode>
+         <PhCode>61</PhCode>
+         <Population>2771</Population>
+         <Area>135</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cocos (Keeling) Islands</DisplayName>
+         <ISOA2>cc</ISOA2>
+         <ISOA3>cck</ISOA3>
+         <FormalName>Territory of Cocos (Keeling) Islands</FormalName>
+         <Capital>West Island</Capital>
+         <ISOCode>166</ISOCode>
+         <PhCode>61</PhCode>
+         <Population>633</Population>
+         <Area>14</Area>
+      </Country>
+      <Country>
+         <DisplayName>Colombia</DisplayName>
+         <ISOA2>co</ISOA2>
+         <ISOA3>col</ISOA3>
+         <FormalName>Republic of Colombia</FormalName>
+         <Capital>Bogota </Capital>
+         <ISOCode>170</ISOCode>
+         <PhCode>57</PhCode>
+         <Population>40349388</Population>
+         <Area>1138910</Area>
+      </Country>
+      <Country>
+         <DisplayName>Comoros</DisplayName>
+         <ISOA2>km</ISOA2>
+         <ISOA3>com</ISOA3>
+         <FormalName>Islamic Federal Republic of the Comoros</FormalName>
+         <Capital>Moroni</Capital>
+         <ISOCode>174</ISOCode>
+         <PhCode>269</PhCode>
+         <Population>596202</Population>
+         <Area>2170</Area>
+      </Country>
+      <Country>
+         <DisplayName>Congo</DisplayName>
+         <ISOA2>cg</ISOA2>
+         <ISOA3>cog</ISOA3>
+         <FormalName>Republic of the Congo</FormalName>
+         <Capital>Brazzaville </Capital>
+         <ISOCode>178</ISOCode>
+         <PhCode>242</PhCode>
+         <Population>2894336</Population>
+         <Area>342000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Congo, Democratic Republic of the</DisplayName>
+         <ISOA2>cd</ISOA2>
+         <ISOA3>cod</ISOA3>
+         <FormalName>Democratic Republic of the Congo</FormalName>
+         <Capital>Kinshasa</Capital>
+         <ISOCode>180</ISOCode>
+         <PhCode>243</PhCode>
+         <Population>53624718</Population>
+         <Area>2345410</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cook Islands</DisplayName>
+         <ISOA2>ck</ISOA2>
+         <ISOA3>cok</ISOA3>
+         <Capital>Avarua</Capital>
+         <ISOCode>184</ISOCode>
+         <PhCode>682</PhCode>
+         <Population>20611</Population>
+         <Area>240</Area>
+      </Country>
+      <Country>
+         <DisplayName>Costa Rica</DisplayName>
+         <ISOA2>cr</ISOA2>
+         <ISOA3>cri</ISOA3>
+         <FormalName>Republic of Costa Rica</FormalName>
+         <Capital>San Jose</Capital>
+         <ISOCode>188</ISOCode>
+         <PhCode>506</PhCode>
+         <Population>3773057</Population>
+         <Area>51100</Area>
+      </Country>
+      <Country>
+         <DisplayName>C&#244;te d'Ivoire</DisplayName>
+         <ISOA2>ci</ISOA2>
+         <ISOA3>civ</ISOA3>
+         <FormalName>Republic of C&#244;te d'Ivoire</FormalName>
+         <Capital>Yamoussoukro</Capital>
+         <ISOCode>384</ISOCode>
+         <PhCode>225</PhCode>
+         <Population>16393221</Population>
+         <Area>322460</Area>
+      </Country>
+      <Country>
+         <DisplayName>Croatia</DisplayName>
+         <ISOA2>hr</ISOA2>
+         <ISOA3>hrv</ISOA3>
+         <FormalName>Republic of Croatia</FormalName>
+         <Capital>Zagreb</Capital>
+         <ISOCode>191</ISOCode>
+         <PhCode>385</PhCode>
+         <Population>4334142</Population>
+         <Area>56542</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cuba</DisplayName>
+         <ISOA2>cu</ISOA2>
+         <ISOA3>cub</ISOA3>
+         <FormalName>Republic of Cuba</FormalName>
+         <Capital>Havana</Capital>
+         <ISOCode>192</ISOCode>
+         <PhCode>53</PhCode>
+         <Population>11184023</Population>
+         <Area>110860</Area>
+      </Country>
+      <Country>
+         <DisplayName>Cyprus</DisplayName>
+         <ISOA2>cy</ISOA2>
+         <ISOA3>cyp</ISOA3>
+         <FormalName>Republic of Cyprus</FormalName>
+         <Capital>Nicosia</Capital>
+         <ISOCode>196</ISOCode>
+         <PhCode>357</PhCode>
+         <Population>762887</Population>
+         <Area>9250</Area>
+      </Country>
+      <Country>
+         <DisplayName>Czech Republic</DisplayName>
+         <ISOA2>cz</ISOA2>
+         <ISOA3>cze</ISOA3>
+         <FormalName>Czech Republic</FormalName>
+         <Capital>Prague </Capital>
+         <ISOCode>203</ISOCode>
+         <PhCode>420</PhCode>
+         <Population>10264212</Population>
+         <Area>78866</Area>
+      </Country>
+      <Country>
+         <DisplayName>Denmark</DisplayName>
+         <ISOA2>dk</ISOA2>
+         <ISOA3>dnk</ISOA3>
+         <FormalName>Kingdom of Denmark</FormalName>
+         <Capital>Copenhagen</Capital>
+         <ISOCode>208</ISOCode>
+         <PhCode>45</PhCode>
+         <Population>5352815</Population>
+         <Area>43094</Area>
+      </Country>
+      <Country>
+         <DisplayName>Djibouti</DisplayName>
+         <ISOA2>dj</ISOA2>
+         <ISOA3>dji</ISOA3>
+         <FormalName>Republic of Djibouti</FormalName>
+         <Capital>Djibouti </Capital>
+         <ISOCode>262</ISOCode>
+         <PhCode>253</PhCode>
+         <Population>460700</Population>
+         <Area>22000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Dominica</DisplayName>
+         <ISOA2>dm</ISOA2>
+         <ISOA3>dma</ISOA3>
+         <FormalName>Commonwealth of Dominica</FormalName>
+         <Capital>Roseau</Capital>
+         <ISOCode>212</ISOCode>
+         <PhCode>1767</PhCode>
+         <Population>70786</Population>
+         <Area>754</Area>
+      </Country>
+      <Country>
+         <DisplayName>Dominican Republic</DisplayName>
+         <ISOA2>do</ISOA2>
+         <ISOA3>dom</ISOA3>
+         <FormalName>Dominican Republic</FormalName>
+         <Capital>Santo Domingo </Capital>
+         <ISOCode>214</ISOCode>
+         <PhCode>1809</PhCode>
+         <Population>8581477</Population>
+         <Area>48730</Area>
+      </Country>
+      <Country>
+         <DisplayName>East Timor</DisplayName>
+         <ISOA2>tp</ISOA2>
+         <ISOA3>tmp</ISOA3>
+         <ISOCode>626</ISOCode>
+         <PhCode>670</PhCode>
+      </Country>
+      <Country>
+         <DisplayName>Ecuador</DisplayName>
+         <ISOA2>ec</ISOA2>
+         <ISOA3>ecu</ISOA3>
+         <FormalName>Republic of Ecuador</FormalName>
+         <Capital>Quito</Capital>
+         <ISOCode>218</ISOCode>
+         <PhCode>593</PhCode>
+         <Population>13183978</Population>
+         <Area>283560</Area>
+      </Country>
+      <Country>
+         <DisplayName>Egypt</DisplayName>
+         <ISOA2>eg</ISOA2>
+         <ISOA3>egy</ISOA3>
+         <FormalName>Arab Republic of Egypt</FormalName>
+         <Capital>Cairo</Capital>
+         <ISOCode>818</ISOCode>
+         <PhCode>20</PhCode>
+         <Population>69536644</Population>
+         <Area>1001450</Area>
+      </Country>
+      <Country>
+         <DisplayName>El Salvador</DisplayName>
+         <ISOA2>sv</ISOA2>
+         <ISOA3>slv</ISOA3>
+         <FormalName>Republic of El Salvador</FormalName>
+         <Capital>San Salvador </Capital>
+         <ISOCode>222</ISOCode>
+         <PhCode>503</PhCode>
+         <Population>6237662</Population>
+         <Area>21040</Area>
+      </Country>
+      <Country>
+         <DisplayName>Equatorial Guinea</DisplayName>
+         <ISOA2>gq</ISOA2>
+         <ISOA3>gnq</ISOA3>
+         <FormalName>Republic of Equatorial Guniea</FormalName>
+         <Capital>Malabo</Capital>
+         <ISOCode>226</ISOCode>
+         <PhCode>240</PhCode>
+         <Population>486060</Population>
+         <Area>28051</Area>
+      </Country>
+      <Country>
+         <DisplayName>Eritrea</DisplayName>
+         <ISOA2>er</ISOA2>
+         <ISOA3>eri</ISOA3>
+         <FormalName>State of Eritrea</FormalName>
+         <Capital>Asmara</Capital>
+         <ISOCode>232</ISOCode>
+         <PhCode>291</PhCode>
+         <Population>4298269</Population>
+         <Area>121320</Area>
+      </Country>
+      <Country>
+         <DisplayName>Estonia</DisplayName>
+         <ISOA2>ee</ISOA2>
+         <ISOA3>est</ISOA3>
+         <FormalName>Republic of Estonia</FormalName>
+         <Capital>Tallinn</Capital>
+         <ISOCode>233</ISOCode>
+         <PhCode>372</PhCode>
+         <Population>1423316</Population>
+         <Area>45226</Area>
+      </Country>
+      <Country>
+         <DisplayName>Ethiopia</DisplayName>
+         <ISOA2>et</ISOA2>
+         <ISOA3>eth</ISOA3>
+         <FormalName>Federal Democratic Republic of Ethiopia</FormalName>
+         <Capital>Addis Ababa</Capital>
+         <ISOCode>231</ISOCode>
+         <PhCode>251</PhCode>
+         <Population>65891874</Population>
+         <Area>1127127</Area>
+      </Country>
+      <Country>
+         <DisplayName>Falkland Islands (Malvinas)</DisplayName>
+         <ISOA2>fk</ISOA2>
+         <ISOA3>flk</ISOA3>
+         <Capital>Stanley</Capital>
+         <ISOCode>238</ISOCode>
+         <PhCode>500</PhCode>
+         <Population>2895</Population>
+         <Area>12173</Area>
+      </Country>
+      <Country>
+         <DisplayName>Faroe Islands</DisplayName>
+         <ISOA2>fo</ISOA2>
+         <ISOA3>fro</ISOA3>
+         <Capital>Torshavn </Capital>
+         <ISOCode>234</ISOCode>
+         <PhCode>298</PhCode>
+         <Population>45661</Population>
+         <Area>1399</Area>
+      </Country>
+      <Country>
+         <DisplayName>Fiji</DisplayName>
+         <ISOA2>fj</ISOA2>
+         <ISOA3>fji</ISOA3>
+         <FormalName>Republic of the Fiji Islands</FormalName>
+         <Capital>Suva</Capital>
+         <ISOCode>242</ISOCode>
+         <PhCode>679</PhCode>
+         <Population>844330</Population>
+         <Area>18270</Area>
+      </Country>
+      <Country>
+         <DisplayName>Finland</DisplayName>
+         <ISOA2>fi</ISOA2>
+         <ISOA3>fin</ISOA3>
+         <FormalName>Republic of Finland</FormalName>
+         <Capital>Helsinki</Capital>
+         <ISOCode>246</ISOCode>
+         <PhCode>358</PhCode>
+         <Population>5175783</Population>
+         <Area>337030</Area>
+      </Country>
+      <Country>
+         <DisplayName>France</DisplayName>
+         <ISOA2>fr</ISOA2>
+         <ISOA3>fra</ISOA3>
+         <FormalName>French Republic</FormalName>
+         <Capital>Paris</Capital>
+         <ISOCode>250</ISOCode>
+         <PhCode>33</PhCode>
+         <Population>59551227</Population>
+         <Area>547030</Area>
+      </Country>
+      <Country>
+         <DisplayName>French Guiana</DisplayName>
+         <ISOA2>gf</ISOA2>
+         <ISOA3>guf</ISOA3>
+         <FormalName>Department of Guiana</FormalName>
+         <Capital>Cayenne</Capital>
+         <ISOCode>254</ISOCode>
+         <PhCode>594</PhCode>
+         <Population>177562</Population>
+         <Area>91000</Area>
+      </Country>
+      <Country>
+         <DisplayName>French Polynesia</DisplayName>
+         <ISOA2>pf</ISOA2>
+         <ISOA3>pyf</ISOA3>
+         <FormalName>Territory of French Poylnesia</FormalName>
+         <Capital>Papeete</Capital>
+         <ISOCode>258</ISOCode>
+         <PhCode>689</PhCode>
+         <Population>253506</Population>
+         <Area>4167</Area>
+      </Country>
+      <Country>
+         <DisplayName>French Southern Territories</DisplayName>
+         <ISOA2>tf</ISOA2>
+         <ISOA3>atf</ISOA3>
+         <FormalName> Territory of the French Southern and Antarctic Lands</FormalName>
+         <ISOCode>260</ISOCode>
+         <Area>7781</Area>
+      </Country>
+      <Country>
+         <DisplayName>Gabon</DisplayName>
+         <ISOA2>ga</ISOA2>
+         <ISOA3>gab</ISOA3>
+         <FormalName>Gabonese Republic</FormalName>
+         <Capital>Libreville</Capital>
+         <ISOCode>266</ISOCode>
+         <PhCode>241</PhCode>
+         <Population>1221175</Population>
+         <Area>267667</Area>
+      </Country>
+      <Country>
+         <DisplayName>Gambia</DisplayName>
+         <ISOA2>gm</ISOA2>
+         <ISOA3>gmb</ISOA3>
+         <FormalName>Republic of the Gambia</FormalName>
+         <Capital>Banjul </Capital>
+         <ISOCode>270</ISOCode>
+         <PhCode>220</PhCode>
+         <Population>1411205</Population>
+         <Area>11300</Area>
+      </Country>
+      <Country>
+         <DisplayName>Georgia</DisplayName>
+         <ISOA2>ge</ISOA2>
+         <ISOA3>geo</ISOA3>
+         <Capital>T'bilisi</Capital>
+         <ISOCode>268</ISOCode>
+         <PhCode>995</PhCode>
+         <Population>4989285</Population>
+         <Area>69700</Area>
+      </Country>
+      <Country>
+         <DisplayName>Germany</DisplayName>
+         <ISOA2>de</ISOA2>
+         <ISOA3>deu</ISOA3>
+         <FormalName>Federal Republic of Germany</FormalName>
+         <Capital>Berlin</Capital>
+         <ISOCode>276</ISOCode>
+         <PhCode>49</PhCode>
+         <Population>83029536</Population>
+         <Area>357021</Area>
+      </Country>
+      <Country>
+         <DisplayName>Ghana</DisplayName>
+         <ISOA2>gh</ISOA2>
+         <ISOA3>gha</ISOA3>
+         <FormalName>Republic of Ghana</FormalName>
+         <Capital>Accra</Capital>
+         <ISOCode>288</ISOCode>
+         <PhCode>233</PhCode>
+         <Population>19894014</Population>
+         <Area>238540</Area>
+      </Country>
+      <Country>
+         <DisplayName>Gibraltar</DisplayName>
+         <ISOA2>gi</ISOA2>
+         <ISOA3>gib</ISOA3>
+         <Capital>Gibraltar</Capital>
+         <ISOCode>292</ISOCode>
+         <PhCode>350</PhCode>
+         <Population>27649</Population>
+         <Area>7</Area>
+      </Country>
+      <Country>
+         <DisplayName>Greece</DisplayName>
+         <ISOA2>gr</ISOA2>
+         <ISOA3>grc</ISOA3>
+         <FormalName>Hellenic Republic</FormalName>
+         <Capital>Athens</Capital>
+         <ISOCode>300</ISOCode>
+         <PhCode>30</PhCode>
+         <Population>10623835</Population>
+         <Area>131940</Area>
+      </Country>
+      <Country>
+         <DisplayName>Greenland</DisplayName>
+         <ISOA2>gl</ISOA2>
+         <ISOA3>grl</ISOA3>
+         <Capital>Nuuk (Godthab)</Capital>
+         <ISOCode>304</ISOCode>
+         <PhCode>299</PhCode>
+         <Population>56352</Population>
+         <Area>2175600</Area>
+      </Country>
+      <Country>
+         <DisplayName>Grenada</DisplayName>
+         <ISOA2>gd</ISOA2>
+         <ISOA3>grd</ISOA3>
+         <Capital>Saint George's </Capital>
+         <ISOCode>308</ISOCode>
+         <PhCode>1473</PhCode>
+         <Population>89227</Population>
+         <Area>340</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guadeloupe</DisplayName>
+         <ISOA2>gp</ISOA2>
+         <ISOA3>glp</ISOA3>
+         <FormalName>Department of Guadeloupe</FormalName>
+         <Capital>Basse-Terre</Capital>
+         <ISOCode>312</ISOCode>
+         <PhCode>590</PhCode>
+         <Population>431170</Population>
+         <Area>1780</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guam</DisplayName>
+         <ISOA2>gu</ISOA2>
+         <ISOA3>gum</ISOA3>
+         <FormalName>Territory of Guam</FormalName>
+         <Capital>Hagatna (Agana)</Capital>
+         <ISOCode>316</ISOCode>
+         <PhCode>1671</PhCode>
+         <Population>157557</Population>
+         <Area>549</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guatemala</DisplayName>
+         <ISOA2>gt</ISOA2>
+         <ISOA3>gtm</ISOA3>
+         <FormalName>Republic of Guatemala</FormalName>
+         <Capital>Guatemala </Capital>
+         <ISOCode>320</ISOCode>
+         <PhCode>502</PhCode>
+         <Population>12974361</Population>
+         <Area>108890</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guinea</DisplayName>
+         <ISOA2>gn</ISOA2>
+         <ISOA3>gin</ISOA3>
+         <FormalName>Republic of Guinea</FormalName>
+         <Capital>Conakry</Capital>
+         <ISOCode>324</ISOCode>
+         <PhCode>224</PhCode>
+         <Population>7613870</Population>
+         <Area>245857</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guinea-Bissau</DisplayName>
+         <ISOA2>gw</ISOA2>
+         <ISOA3>gnb</ISOA3>
+         <FormalName>Republic of Guniea-Bissau</FormalName>
+         <Capital>Bissau</Capital>
+         <ISOCode>624</ISOCode>
+         <PhCode>245</PhCode>
+         <Population>1315822</Population>
+         <Area>36120</Area>
+      </Country>
+      <Country>
+         <DisplayName>Guyana</DisplayName>
+         <ISOA2>gy</ISOA2>
+         <ISOA3>guy</ISOA3>
+         <FormalName>Co-operative Republic of Guyana</FormalName>
+         <Capital>Georgetown </Capital>
+         <ISOCode>328</ISOCode>
+         <PhCode>592</PhCode>
+         <Population>697181</Population>
+         <Area>214970</Area>
+      </Country>
+      <Country>
+         <DisplayName>Haiti</DisplayName>
+         <ISOA2>ht</ISOA2>
+         <ISOA3>hti</ISOA3>
+         <FormalName>Republic of Haiti</FormalName>
+         <Capital>Port-au-Prince </Capital>
+         <ISOCode>332</ISOCode>
+         <PhCode>509</PhCode>
+         <Population>6964549</Population>
+         <Area>27750</Area>
+      </Country>
+      <Country>
+         <DisplayName>Heard Island and McDonald Islands</DisplayName>
+         <ISOA2>hm</ISOA2>
+         <ISOA3>hmd</ISOA3>
+         <FormalName>Territory of Heard Island and McDonald Islands </FormalName>
+         <ISOCode>334</ISOCode>
+         <Area>412</Area>
+      </Country>
+      <Country>
+         <DisplayName>Holy See (Vatican City State)</DisplayName>
+         <ISOA2>va</ISOA2>
+         <ISOA3>vat</ISOA3>
+         <FormalName>The Holy See (State of the Vatican City)</FormalName>
+         <Capital>Vatican City</Capital>
+         <ISOCode>336</ISOCode>
+         <PhCode>39</PhCode>
+         <Population>890</Population>
+      </Country>
+      <Country>
+         <DisplayName>Honduras</DisplayName>
+         <ISOA2>hn</ISOA2>
+         <ISOA3>hnd</ISOA3>
+         <FormalName>Republic of Honduras</FormalName>
+         <Capital>Tegucigalpa</Capital>
+         <ISOCode>340</ISOCode>
+         <PhCode>504</PhCode>
+         <Population>6406052</Population>
+         <Area>112090</Area>
+      </Country>
+      <Country>
+         <DisplayName>Hong Kong</DisplayName>
+         <ISOA2>hk</ISOA2>
+         <ISOA3>hkg</ISOA3>
+         <FormalName>Hong Kong Special Administrative Region</FormalName>
+         <Capital>Victoria</Capital>
+         <ISOCode>344</ISOCode>
+         <PhCode>852</PhCode>
+         <Population>7210505</Population>
+         <Area>1092</Area>
+      </Country>
+      <Country>
+         <DisplayName>Hungary</DisplayName>
+         <ISOA2>hu</ISOA2>
+         <ISOA3>hun</ISOA3>
+         <FormalName>Republic of Hungary</FormalName>
+         <Capital>Budapest </Capital>
+         <ISOCode>348</ISOCode>
+         <PhCode>36</PhCode>
+         <Population>10106017</Population>
+         <Area>93030</Area>
+      </Country>
+      <Country>
+         <DisplayName>Iceland</DisplayName>
+         <ISOA2>is</ISOA2>
+         <ISOA3>isl</ISOA3>
+         <FormalName>Republic of Iceland</FormalName>
+         <Capital>Reykjavik </Capital>
+         <ISOCode>352</ISOCode>
+         <PhCode>354</PhCode>
+         <Population>277906</Population>
+         <Area>103000</Area>
+      </Country>
+      <Country>
+         <DisplayName>India</DisplayName>
+         <ISOA2>in</ISOA2>
+         <ISOA3>ind</ISOA3>
+         <FormalName>Republic of India</FormalName>
+         <Capital>New Delhi </Capital>
+         <ISOCode>356</ISOCode>
+         <PhCode>91</PhCode>
+         <Population>1029991145</Population>
+         <Area>3287590</Area>
+      </Country>
+      <Country>
+         <DisplayName>Indonesia</DisplayName>
+         <ISOA2>id</ISOA2>
+         <ISOA3>idn</ISOA3>
+         <FormalName>Republic of Indonesia</FormalName>
+         <Capital>Jakarta</Capital>
+         <ISOCode>360</ISOCode>
+         <PhCode>62</PhCode>
+         <Population>228437870</Population>
+         <Area>1919440</Area>
+      </Country>
+      <Country>
+         <DisplayName>Iran, Islamic Republic of</DisplayName>
+         <ISOA2>ir</ISOA2>
+         <ISOA3>irn</ISOA3>
+         <FormalName>Islamic Republic of Iran</FormalName>
+         <Capital>Tehran</Capital>
+         <ISOCode>364</ISOCode>
+         <PhCode>98</PhCode>
+         <Population>66128965</Population>
+         <Area>1648000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Iraq</DisplayName>
+         <ISOA2>iq</ISOA2>
+         <ISOA3>irq</ISOA3>
+         <FormalName>Republic of Iraq</FormalName>
+         <Capital>Baghdad </Capital>
+         <ISOCode>368</ISOCode>
+         <PhCode>964</PhCode>
+         <Population>23331985</Population>
+         <Area>437072</Area>
+      </Country>
+      <Country>
+         <DisplayName>Ireland</DisplayName>
+         <ISOA2>ie</ISOA2>
+         <ISOA3>irl</ISOA3>
+         <Capital>Dublin</Capital>
+         <ISOCode>372</ISOCode>
+         <PhCode>353</PhCode>
+         <Population>3840838</Population>
+         <Area>70280</Area>
+      </Country>
+      <Country>
+         <DisplayName>Israel</DisplayName>
+         <ISOA2>il</ISOA2>
+         <ISOA3>isr</ISOA3>
+         <FormalName>State of Israel</FormalName>
+         <Capital>Jerusalem</Capital>
+         <ISOCode>376</ISOCode>
+         <PhCode>972</PhCode>
+         <Population>5938093</Population>
+         <Area>20770</Area>
+      </Country>
+      <Country>
+         <DisplayName>Italy</DisplayName>
+         <ISOA2>it</ISOA2>
+         <ISOA3>ita</ISOA3>
+         <FormalName>Italian Republic</FormalName>
+         <Capital>Rome</Capital>
+         <ISOCode>380</ISOCode>
+         <PhCode>39</PhCode>
+         <Population>57679825</Population>
+         <Area>301230</Area>
+      </Country>
+      <Country>
+         <DisplayName>Jamaica</DisplayName>
+         <ISOA2>jm</ISOA2>
+         <ISOA3>jam</ISOA3>
+         <Capital>Kingston</Capital>
+         <ISOCode>388</ISOCode>
+         <PhCode>1876</PhCode>
+         <Population>2665636</Population>
+         <Area>10990</Area>
+      </Country>
+      <Country>
+         <DisplayName>Japan</DisplayName>
+         <ISOA2>jp</ISOA2>
+         <ISOA3>jpn</ISOA3>
+         <Capital>Tokyo</Capital>
+         <ISOCode>392</ISOCode>
+         <PhCode>81</PhCode>
+         <Population>126771662</Population>
+         <Area>377835</Area>
+      </Country>
+      <Country>
+         <DisplayName>Jordan</DisplayName>
+         <ISOA2>jo</ISOA2>
+         <ISOA3>jor</ISOA3>
+         <FormalName>Hashemite Kingdom of Jordan</FormalName>
+         <Capital>Amman </Capital>
+         <ISOCode>400</ISOCode>
+         <PhCode>962</PhCode>
+         <Population>5153378</Population>
+         <Area>92300</Area>
+      </Country>
+      <Country>
+         <DisplayName>Kazakstan</DisplayName>
+         <ISOA2>kz</ISOA2>
+         <ISOA3>kaz</ISOA3>
+         <FormalName>Republic of Kazakstan</FormalName>
+         <Capital>Astana </Capital>
+         <ISOCode>398</ISOCode>
+         <PhCode>7</PhCode>
+         <Population>16731303</Population>
+         <Area>2717300</Area>
+      </Country>
+      <Country>
+         <DisplayName>Kenya</DisplayName>
+         <ISOA2>ke</ISOA2>
+         <ISOA3>ken</ISOA3>
+         <FormalName>Republic of Kenya</FormalName>
+         <Capital>Nairobi</Capital>
+         <ISOCode>404</ISOCode>
+         <PhCode>254</PhCode>
+         <Population>30765916</Population>
+         <Area>582650</Area>
+      </Country>
+      <Country>
+         <DisplayName>Kiribati</DisplayName>
+         <ISOA2>ki</ISOA2>
+         <ISOA3>kir</ISOA3>
+         <FormalName>Republic of Kiribati</FormalName>
+         <Capital>Tarawa </Capital>
+         <ISOCode>296</ISOCode>
+         <PhCode>686</PhCode>
+         <Population>94149</Population>
+         <Area>717</Area>
+      </Country>
+      <Country>
+         <DisplayName>Korea, Democratic People's Republic of</DisplayName>
+         <ISOA2>kp</ISOA2>
+         <ISOA3>prk</ISOA3>
+         <FormalName>Democratic People's Republic of Korea</FormalName>
+         <Capital>P'yongyang </Capital>
+         <ISOCode>408</ISOCode>
+         <PhCode>850</PhCode>
+         <Population>21968228</Population>
+         <Area>120540</Area>
+      </Country>
+      <Country>
+         <DisplayName>Korea, Republic of</DisplayName>
+         <ISOA2>kr</ISOA2>
+         <ISOA3>kor</ISOA3>
+         <FormalName>Republic of Korea</FormalName>
+         <Capital>Seoul</Capital>
+         <ISOCode>410</ISOCode>
+         <PhCode>82</PhCode>
+         <Population>47904370</Population>
+         <Area>98480</Area>
+      </Country>
+      <Country>
+         <DisplayName>Kuwait</DisplayName>
+         <ISOA2>kw</ISOA2>
+         <ISOA3>kwt</ISOA3>
+         <FormalName>State of Kuwait</FormalName>
+         <Capital>Kuwait </Capital>
+         <ISOCode>414</ISOCode>
+         <PhCode>965</PhCode>
+         <Population>2041961</Population>
+         <Area>17820</Area>
+      </Country>
+      <Country>
+         <DisplayName>Kyrgyzstan</DisplayName>
+         <ISOA2>kg</ISOA2>
+         <ISOA3>kgz</ISOA3>
+         <FormalName>Kyrgyz Republic</FormalName>
+         <Capital>Bishkek</Capital>
+         <ISOCode>417</ISOCode>
+         <PhCode>996</PhCode>
+         <Population>4753003</Population>
+         <Area>198500</Area>
+      </Country>
+      <Country>
+         <DisplayName>Lao People's Democratic Republic</DisplayName>
+         <ISOA2>la</ISOA2>
+         <ISOA3>lao</ISOA3>
+         <FormalName>Lao People's Democratic Republic</FormalName>
+         <Capital>Vientiane</Capital>
+         <ISOCode>418</ISOCode>
+         <PhCode>856</PhCode>
+         <Population>5635967</Population>
+         <Area>236800</Area>
+      </Country>
+      <Country>
+         <DisplayName>Latvia</DisplayName>
+         <ISOA2>lv</ISOA2>
+         <ISOA3>lva</ISOA3>
+         <FormalName>Republic of Latvia</FormalName>
+         <Capital>Riga </Capital>
+         <ISOCode>428</ISOCode>
+         <PhCode>371</PhCode>
+         <Population>2385231</Population>
+         <Area>64589</Area>
+      </Country>
+      <Country>
+         <DisplayName>Lebanon</DisplayName>
+         <ISOA2>lb</ISOA2>
+         <ISOA3>lbn</ISOA3>
+         <FormalName>Lebanese Republic</FormalName>
+         <Capital>Beirut</Capital>
+         <ISOCode>422</ISOCode>
+         <PhCode>961</PhCode>
+         <Population>3627774</Population>
+         <Area>10400</Area>
+      </Country>
+      <Country>
+         <DisplayName>Lesotho</DisplayName>
+         <ISOA2>ls</ISOA2>
+         <ISOA3>lso</ISOA3>
+         <FormalName>Kingdom of Lesotho</FormalName>
+         <Capital>Maseru </Capital>
+         <ISOCode>426</ISOCode>
+         <PhCode>266</PhCode>
+         <Population>2177062</Population>
+         <Area>30355</Area>
+      </Country>
+      <Country>
+         <DisplayName>Liberia</DisplayName>
+         <ISOA2>lr</ISOA2>
+         <ISOA3>lbr</ISOA3>
+         <FormalName>Republic of Liberia</FormalName>
+         <Capital>Monrovia</Capital>
+         <ISOCode>430</ISOCode>
+         <PhCode>231</PhCode>
+         <Population>3225837</Population>
+         <Area>111370</Area>
+      </Country>
+      <Country>
+         <DisplayName>Libyan Arab Jamahiriya</DisplayName>
+         <ISOA2>ly</ISOA2>
+         <ISOA3>lby</ISOA3>
+         <FormalName>Great Socialist People's Libyan Arab Jamahiriya</FormalName>
+         <Capital>Tripoli </Capital>
+         <ISOCode>434</ISOCode>
+         <PhCode>218</PhCode>
+         <Population>5240599</Population>
+         <Area>1759540</Area>
+      </Country>
+      <Country>
+         <DisplayName>Liechtenstein</DisplayName>
+         <ISOA2>li</ISOA2>
+         <ISOA3>lie</ISOA3>
+         <FormalName>Principality of Liechtenstein</FormalName>
+         <Capital>Vaduz</Capital>
+         <ISOCode>438</ISOCode>
+         <PhCode>423</PhCode>
+         <Population>32528</Population>
+         <Area>160</Area>
+      </Country>
+      <Country>
+         <DisplayName>Lithuania</DisplayName>
+         <ISOA2>lt</ISOA2>
+         <ISOA3>ltu</ISOA3>
+         <FormalName>Republic of Lithuania</FormalName>
+         <Capital>Vilnius </Capital>
+         <ISOCode>440</ISOCode>
+         <PhCode>370</PhCode>
+         <Population>3610535</Population>
+         <Area>65200</Area>
+      </Country>
+      <Country>
+         <DisplayName>Luxembourg</DisplayName>
+         <ISOA2>lu</ISOA2>
+         <ISOA3>lux</ISOA3>
+         <FormalName>Grand Duchy of Luxembourg</FormalName>
+         <Capital>Luxembourg</Capital>
+         <ISOCode>442</ISOCode>
+         <PhCode>352</PhCode>
+         <Population>442972</Population>
+         <Area>2586</Area>
+      </Country>
+      <Country>
+         <DisplayName>Macau</DisplayName>
+         <ISOA2>mo</ISOA2>
+         <ISOA3>mac</ISOA3>
+         <FormalName>Macau Special Administrative Region</FormalName>
+         <Capital>Macau</Capital>
+         <ISOCode>446</ISOCode>
+         <PhCode>853</PhCode>
+         <Population>453733</Population>
+         <Area>21</Area>
+      </Country>
+      <Country>
+         <DisplayName>Macedonia, the Former Yugoslav Republic of</DisplayName>
+         <ISOA2>mk</ISOA2>
+         <ISOA3>mkd</ISOA3>
+         <FormalName>The Former Yugoslav Republic of Macedonia</FormalName>
+         <Capital>Skopje</Capital>
+         <ISOCode>807</ISOCode>
+         <PhCode>389</PhCode>
+         <Population>2046209</Population>
+         <Area>25333</Area>
+      </Country>
+      <Country>
+         <DisplayName>Madagascar</DisplayName>
+         <ISOA2>mg</ISOA2>
+         <ISOA3>mdg</ISOA3>
+         <FormalName>Republic of Madagascar</FormalName>
+         <Capital>Antananarivo </Capital>
+         <ISOCode>450</ISOCode>
+         <PhCode>261</PhCode>
+         <Population>15982563</Population>
+         <Area>587040</Area>
+      </Country>
+      <Country>
+         <DisplayName>Malawi</DisplayName>
+         <ISOA2>mw</ISOA2>
+         <ISOA3>mwi</ISOA3>
+         <FormalName>Republic of  Malawi</FormalName>
+         <Capital>Lilongwe </Capital>
+         <ISOCode>454</ISOCode>
+         <PhCode>265</PhCode>
+         <Population>10548250</Population>
+         <Area>118480</Area>
+      </Country>
+      <Country>
+         <DisplayName>Malaysia</DisplayName>
+         <ISOA2>my</ISOA2>
+         <ISOA3>mys</ISOA3>
+         <Capital>Kuala Lumpur </Capital>
+         <ISOCode>458</ISOCode>
+         <PhCode>60</PhCode>
+         <Population>22229040</Population>
+         <Area>329750</Area>
+      </Country>
+      <Country>
+         <DisplayName>Maldives</DisplayName>
+         <ISOA2>mv</ISOA2>
+         <ISOA3>mdv</ISOA3>
+         <FormalName>Republic of Maldives</FormalName>
+         <Capital>Male</Capital>
+         <ISOCode>462</ISOCode>
+         <PhCode>960</PhCode>
+         <Population>310764</Population>
+         <Area>300</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mali</DisplayName>
+         <ISOA2>ml</ISOA2>
+         <ISOA3>mli</ISOA3>
+         <FormalName>Republic of Mali</FormalName>
+         <Capital>Bamako</Capital>
+         <ISOCode>466</ISOCode>
+         <PhCode>223</PhCode>
+         <Population>11008518</Population>
+         <Area>1240000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Malta</DisplayName>
+         <ISOA2>mt</ISOA2>
+         <ISOA3>mlt</ISOA3>
+         <FormalName>Republic of Malta</FormalName>
+         <Capital>Valletta </Capital>
+         <ISOCode>470</ISOCode>
+         <PhCode>356</PhCode>
+         <Population>394583</Population>
+         <Area>316</Area>
+      </Country>
+      <Country>
+         <DisplayName>Marshall Islands</DisplayName>
+         <ISOA2>mh</ISOA2>
+         <ISOA3>mhl</ISOA3>
+         <FormalName>Republic of the Marshall Islands</FormalName>
+         <Capital>Majuro</Capital>
+         <ISOCode>584</ISOCode>
+         <PhCode>692</PhCode>
+         <Population>70822</Population>
+         <Area>181</Area>
+      </Country>
+      <Country>
+         <DisplayName>Martinique</DisplayName>
+         <ISOA2>mq</ISOA2>
+         <ISOA3>mtq</ISOA3>
+         <FormalName>Department of Martinique</FormalName>
+         <Capital>Fort-de-France</Capital>
+         <ISOCode>474</ISOCode>
+         <PhCode>596</PhCode>
+         <Population>418454</Population>
+         <Area>1100</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mauritania</DisplayName>
+         <ISOA2>mr</ISOA2>
+         <ISOA3>mrt</ISOA3>
+         <FormalName>Islamic Republic of Mauritania</FormalName>
+         <Capital>Nouakchott </Capital>
+         <ISOCode>478</ISOCode>
+         <PhCode>222</PhCode>
+         <Population>2747312</Population>
+         <Area>1030700</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mauritius</DisplayName>
+         <ISOA2>mu</ISOA2>
+         <ISOA3>mus</ISOA3>
+         <FormalName>Republic of Mauritius</FormalName>
+         <Capital>Port Louis </Capital>
+         <ISOCode>480</ISOCode>
+         <PhCode>230</PhCode>
+         <Population>1189825</Population>
+         <Area>1860</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mayotte</DisplayName>
+         <ISOA2>yt</ISOA2>
+         <ISOA3>myt</ISOA3>
+         <FormalName>Territorial Collectivity of Mayotte</FormalName>
+         <Capital>Mamoutzou</Capital>
+         <ISOCode>175</ISOCode>
+         <PhCode>269</PhCode>
+         <Population>163366</Population>
+         <Area>374</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mexico</DisplayName>
+         <ISOA2>mx</ISOA2>
+         <ISOA3>mex</ISOA3>
+         <FormalName>United Mexican States</FormalName>
+         <Capital>Mexico</Capital>
+         <ISOCode>383</ISOCode>
+         <PhCode>52</PhCode>
+         <Population>101879171</Population>
+         <Area>1972550</Area>
+      </Country>
+      <Country>
+         <DisplayName>Micronesia, Federated States of</DisplayName>
+         <ISOA2>fm</ISOA2>
+         <ISOA3>fsm</ISOA3>
+         <FormalName>Federeated States of Micronesia</FormalName>
+         <Capital>Palikir</Capital>
+         <ISOCode>583</ISOCode>
+         <PhCode>691</PhCode>
+         <Population>134597</Population>
+         <Area>702</Area>
+      </Country>
+      <Country>
+         <DisplayName>Moldova, Republic of</DisplayName>
+         <ISOA2>md</ISOA2>
+         <ISOA3>mda</ISOA3>
+         <FormalName>Republic of Moldova</FormalName>
+         <Capital>Chisinau</Capital>
+         <ISOCode>498</ISOCode>
+         <PhCode>373</PhCode>
+         <Population>4431570</Population>
+         <Area>33843</Area>
+      </Country>
+      <Country>
+         <DisplayName>Monaco</DisplayName>
+         <ISOA2>mc</ISOA2>
+         <ISOA3>mco</ISOA3>
+         <FormalName>Principality of Monaco</FormalName>
+         <Capital>Monaco </Capital>
+         <ISOCode>492</ISOCode>
+         <PhCode>377</PhCode>
+         <Population>31842</Population>
+         <Area>2</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mongolia</DisplayName>
+         <ISOA2>mn</ISOA2>
+         <ISOA3>mng</ISOA3>
+         <Capital>Ulaanbaatar </Capital>
+         <ISOCode>496</ISOCode>
+         <PhCode>976</PhCode>
+         <Population>2654999</Population>
+         <Area>1565000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Montserrat</DisplayName>
+         <ISOA2>ms</ISOA2>
+         <ISOA3>msr</ISOA3>
+         <Capital>Plymouth</Capital>
+         <ISOCode>500</ISOCode>
+         <PhCode>1664</PhCode>
+         <Population>7574</Population>
+         <Area>100</Area>
+      </Country>
+      <Country>
+         <DisplayName>Morocco</DisplayName>
+         <ISOA2>ma</ISOA2>
+         <ISOA3>mar</ISOA3>
+         <FormalName>Kingdom of Morroco</FormalName>
+         <Capital>Rabat</Capital>
+         <ISOCode>504</ISOCode>
+         <PhCode>212</PhCode>
+         <Population>30645305</Population>
+         <Area>446550</Area>
+      </Country>
+      <Country>
+         <DisplayName>Mozambique</DisplayName>
+         <ISOA2>mz</ISOA2>
+         <ISOA3>moz</ISOA3>
+         <FormalName>Republic of Mozambique</FormalName>
+         <Capital>Maputo</Capital>
+         <ISOCode>508</ISOCode>
+         <PhCode>258</PhCode>
+         <Population>19371057</Population>
+         <Area>801590</Area>
+      </Country>
+      <Country>
+         <DisplayName>Myanmar</DisplayName>
+         <ISOA2>mm</ISOA2>
+         <ISOA3>mmr</ISOA3>
+         <FormalName>Union of Myanmar</FormalName>
+         <Capital>Yangon</Capital>
+         <ISOCode>104</ISOCode>
+         <PhCode>95</PhCode>
+         <Population>48081302</Population>
+         <Area>678500</Area>
+      </Country>
+      <Country>
+         <DisplayName>Namibia</DisplayName>
+         <ISOA2>na</ISOA2>
+         <ISOA3>nam</ISOA3>
+         <FormalName>Republic of Namibia</FormalName>
+         <Capital>Windhoek</Capital>
+         <ISOCode>516</ISOCode>
+         <PhCode>264</PhCode>
+         <Population>1797677</Population>
+         <Area>825418</Area>
+      </Country>
+      <Country>
+         <DisplayName>Nauru</DisplayName>
+         <ISOA2>nr</ISOA2>
+         <ISOA3>nru</ISOA3>
+         <FormalName>Republic of Nauru</FormalName>
+         <ISOCode>520</ISOCode>
+         <PhCode>674</PhCode>
+         <Population>12088</Population>
+         <Area>21</Area>
+      </Country>
+      <Country>
+         <DisplayName>Nepal</DisplayName>
+         <ISOA2>np</ISOA2>
+         <ISOA3>npl</ISOA3>
+         <FormalName>Kingdom of Nepal</FormalName>
+         <Capital>Kathmandu</Capital>
+         <ISOCode>524</ISOCode>
+         <PhCode>977</PhCode>
+         <Population>25284463</Population>
+         <Area>140800</Area>
+      </Country>
+      <Country>
+         <DisplayName>Netherlands</DisplayName>
+         <ISOA2>nl</ISOA2>
+         <ISOA3>nld</ISOA3>
+         <FormalName>Kingdom of the Netherlands</FormalName>
+         <Capital>Amsterdam</Capital>
+         <ISOCode>528</ISOCode>
+         <PhCode>31</PhCode>
+         <Population>15981472</Population>
+         <Area>41526</Area>
+      </Country>
+      <Country>
+         <DisplayName>Netherlands Antilles</DisplayName>
+         <ISOA2>an</ISOA2>
+         <ISOA3>ant</ISOA3>
+         <Capital>Willemstad </Capital>
+         <ISOCode>530</ISOCode>
+         <PhCode>599</PhCode>
+         <Population>212226</Population>
+         <Area>960</Area>
+      </Country>
+      <Country>
+         <DisplayName>New Caledonia</DisplayName>
+         <ISOA2>nc</ISOA2>
+         <ISOA3>ncl</ISOA3>
+         <FormalName>Territory of New Caledonia and Dependencies </FormalName>
+         <Capital>Noumea</Capital>
+         <ISOCode>540</ISOCode>
+         <PhCode>687</PhCode>
+         <Population>204863</Population>
+         <Area>19060</Area>
+      </Country>
+      <Country>
+         <DisplayName>New Zealand</DisplayName>
+         <ISOA2>nz</ISOA2>
+         <ISOA3>nzl</ISOA3>
+         <Capital>Wellington</Capital>
+         <ISOCode>554</ISOCode>
+         <PhCode>64</PhCode>
+         <Population>3864129</Population>
+         <Area>268680</Area>
+      </Country>
+      <Country>
+         <DisplayName>Nicaragua</DisplayName>
+         <ISOA2>ni</ISOA2>
+         <ISOA3>nic</ISOA3>
+         <FormalName>Republic of Nicaragua</FormalName>
+         <Capital>Managua</Capital>
+         <ISOCode>558</ISOCode>
+         <PhCode>505</PhCode>
+         <Population>4918393</Population>
+         <Area>129494</Area>
+      </Country>
+      <Country>
+         <DisplayName>Niger</DisplayName>
+         <ISOA2>ne</ISOA2>
+         <ISOA3>ner</ISOA3>
+         <FormalName>Republic of Niger</FormalName>
+         <Capital>Niamey </Capital>
+         <ISOCode>562</ISOCode>
+         <PhCode>227</PhCode>
+         <Population>10355156</Population>
+         <Area>1267000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Nigeria</DisplayName>
+         <ISOA2>ng</ISOA2>
+         <ISOA3>nga</ISOA3>
+         <FormalName>Federal Republic of Nigeria</FormalName>
+         <Capital>Abuja</Capital>
+         <ISOCode>566</ISOCode>
+         <PhCode>234</PhCode>
+         <Population>126635626</Population>
+         <Area>923768</Area>
+      </Country>
+      <Country>
+         <DisplayName>Niue</DisplayName>
+         <ISOA2>nu</ISOA2>
+         <ISOA3>niu</ISOA3>
+         <Capital>Alofi</Capital>
+         <ISOCode>570</ISOCode>
+         <PhCode>683</PhCode>
+         <Population>2124</Population>
+         <Area>260</Area>
+      </Country>
+      <Country>
+         <DisplayName>Norfolk Island</DisplayName>
+         <ISOA2>nf</ISOA2>
+         <ISOA3>nfk</ISOA3>
+         <FormalName>Territory of Norfolk Island </FormalName>
+         <Capital>Kingston</Capital>
+         <ISOCode>574</ISOCode>
+         <PhCode>672</PhCode>
+         <Population>1879</Population>
+         <Area>35</Area>
+      </Country>
+      <Country>
+         <DisplayName>Northern Mariana Islands</DisplayName>
+         <ISOA2>mp</ISOA2>
+         <ISOA3>mnp</ISOA3>
+         <FormalName>Commonwealth of Northern Mariana Islands</FormalName>
+         <Capital>Saipan</Capital>
+         <ISOCode>580</ISOCode>
+         <PhCode>1670</PhCode>
+         <Population>74612</Population>
+         <Area>477</Area>
+      </Country>
+      <Country>
+         <DisplayName>Norway</DisplayName>
+         <ISOA2>no</ISOA2>
+         <ISOA3>nor</ISOA3>
+         <FormalName>Kingdom of Norway</FormalName>
+         <Capital>Oslo</Capital>
+         <ISOCode>578</ISOCode>
+         <PhCode>47</PhCode>
+         <Population>4503440</Population>
+         <Area>324220</Area>
+      </Country>
+      <Country>
+         <DisplayName>Oman</DisplayName>
+         <ISOA2>om</ISOA2>
+         <ISOA3>omn</ISOA3>
+         <FormalName>Sultanate of Oman</FormalName>
+         <Capital>Muscat </Capital>
+         <ISOCode>512</ISOCode>
+         <PhCode>968</PhCode>
+         <Population>2622198</Population>
+         <Area>212460</Area>
+      </Country>
+      <Country>
+         <DisplayName>Pakistan</DisplayName>
+         <ISOA2>pk</ISOA2>
+         <ISOA3>pak</ISOA3>
+         <FormalName>Islamic Republic of Pakistan</FormalName>
+         <Capital>Islamabad</Capital>
+         <ISOCode>586</ISOCode>
+         <PhCode>92</PhCode>
+         <Population>144616639</Population>
+         <Area>803940</Area>
+      </Country>
+      <Country>
+         <DisplayName>Palau</DisplayName>
+         <ISOA2>pw</ISOA2>
+         <ISOA3>plw</ISOA3>
+         <FormalName>Republic of Palau</FormalName>
+         <Capital>Koror</Capital>
+         <ISOCode>585</ISOCode>
+         <PhCode>680</PhCode>
+         <Population>19092</Population>
+         <Area>458</Area>
+      </Country>
+      <Country>
+         <DisplayName>Palestinian Territory, Occupied</DisplayName>
+         <ISOA2>ps</ISOA2>
+         <PhCode>970</PhCode>
+      </Country>
+      <Country>
+         <DisplayName>Panama</DisplayName>
+         <ISOA2>pa</ISOA2>
+         <ISOA3>pan</ISOA3>
+         <FormalName>Republic of Panama</FormalName>
+         <Capital>Panama</Capital>
+         <ISOCode>591</ISOCode>
+         <PhCode>507</PhCode>
+         <Population>2845647</Population>
+         <Area>78200</Area>
+      </Country>
+      <Country>
+         <DisplayName>Papua New Guinea</DisplayName>
+         <ISOA2>pg</ISOA2>
+         <ISOA3>png</ISOA3>
+         <FormalName>Independent State of Papua New Guinea</FormalName>
+         <Capital>Port Moresby </Capital>
+         <ISOCode>598</ISOCode>
+         <PhCode>675</PhCode>
+         <Population>5049055</Population>
+         <Area>462840</Area>
+      </Country>
+      <Country>
+         <DisplayName>Paraguay</DisplayName>
+         <ISOA2>py</ISOA2>
+         <ISOA3>pry</ISOA3>
+         <FormalName>Republic of Paraguay</FormalName>
+         <Capital>Asuncion</Capital>
+         <ISOCode>600</ISOCode>
+         <PhCode>595</PhCode>
+         <Population>5734139</Population>
+         <Area>406750</Area>
+      </Country>
+      <Country>
+         <DisplayName>Peru</DisplayName>
+         <ISOA2>pe</ISOA2>
+         <ISOA3>per</ISOA3>
+         <FormalName>Republic of Peru</FormalName>
+         <Capital>Lima</Capital>
+         <ISOCode>604</ISOCode>
+         <PhCode>51</PhCode>
+         <Population>27483864</Population>
+         <Area>1285220</Area>
+      </Country>
+      <Country>
+         <DisplayName>Philippines</DisplayName>
+         <ISOA2>ph</ISOA2>
+         <ISOA3>phl</ISOA3>
+         <FormalName>Republic of the Philippines</FormalName>
+         <Capital>Manila</Capital>
+         <ISOCode>608</ISOCode>
+         <PhCode>63</PhCode>
+         <Population>82841518</Population>
+         <Area>300000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Pitcairn</DisplayName>
+         <ISOA2>pn</ISOA2>
+         <ISOA3>pcn</ISOA3>
+         <FormalName>Pitcairn, Henderson, Ducie, and Oeno Islands</FormalName>
+         <Capital>Adamstown</Capital>
+         <ISOCode>612</ISOCode>
+         <Population>47</Population>
+         <Area>47</Area>
+      </Country>
+      <Country>
+         <DisplayName>Poland</DisplayName>
+         <ISOA2>pl</ISOA2>
+         <ISOA3>pol</ISOA3>
+         <FormalName>Republic of Poland</FormalName>
+         <Capital>Warsaw</Capital>
+         <ISOCode>616</ISOCode>
+         <PhCode>48</PhCode>
+         <Population>38633912</Population>
+         <Area>312685</Area>
+      </Country>
+      <Country>
+         <DisplayName>Portugal</DisplayName>
+         <ISOA2>pt</ISOA2>
+         <ISOA3>prt</ISOA3>
+         <FormalName>Portuguese Republic</FormalName>
+         <Capital>Lisbon</Capital>
+         <ISOCode>620</ISOCode>
+         <PhCode>351</PhCode>
+         <Population>10066253</Population>
+         <Area>92391</Area>
+      </Country>
+      <Country>
+         <DisplayName>Puerto Rico</DisplayName>
+         <ISOA2>pr</ISOA2>
+         <ISOA3>pri</ISOA3>
+         <FormalName>Commonwealth of Puerto Rico </FormalName>
+         <Capital>San Juan</Capital>
+         <ISOCode>630</ISOCode>
+         <PhCode>1787</PhCode>
+         <Population>3937316</Population>
+         <Area>9104</Area>
+      </Country>
+      <Country>
+         <DisplayName>Qatar</DisplayName>
+         <ISOA2>qa</ISOA2>
+         <ISOA3>qat</ISOA3>
+         <FormalName>State of Qatar</FormalName>
+         <Capital>Doha</Capital>
+         <ISOCode>634</ISOCode>
+         <PhCode>974</PhCode>
+         <Population>769152</Population>
+         <Area>11437</Area>
+      </Country>
+      <Country>
+         <DisplayName>R&#233;union</DisplayName>
+         <ISOA2>re</ISOA2>
+         <ISOA3>reu</ISOA3>
+         <FormalName>Department of R&#233;union</FormalName>
+         <Capital>Saint-Denis</Capital>
+         <ISOCode>638</ISOCode>
+         <PhCode>262</PhCode>
+         <Population>732570</Population>
+         <Area>2512</Area>
+      </Country>
+      <Country>
+         <DisplayName>Romania</DisplayName>
+         <ISOA2>ro</ISOA2>
+         <ISOA3>rom</ISOA3>
+         <Capital>Bucharest</Capital>
+         <ISOCode>642</ISOCode>
+         <PhCode>40</PhCode>
+         <Population>22364022</Population>
+         <Area>237500</Area>
+      </Country>
+      <Country>
+         <DisplayName>Russian Federation</DisplayName>
+         <ISOA2>ru</ISOA2>
+         <ISOA3>rus</ISOA3>
+         <FormalName>Russian Federation</FormalName>
+         <Capital>Moscow</Capital>
+         <ISOCode>643</ISOCode>
+         <PhCode>7</PhCode>
+         <Population>145470197</Population>
+         <Area>17075200</Area>
+      </Country>
+      <Country>
+         <DisplayName>Rwanda</DisplayName>
+         <ISOA2>rw</ISOA2>
+         <ISOA3>rwa</ISOA3>
+         <FormalName>Rwandese Republic</FormalName>
+         <Capital>Kigali </Capital>
+         <ISOCode>646</ISOCode>
+         <PhCode>250</PhCode>
+         <Population>7312756</Population>
+         <Area>26338</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saint Helena</DisplayName>
+         <ISOA2>sh</ISOA2>
+         <ISOA3>shn</ISOA3>
+         <Capital>Jamestown </Capital>
+         <ISOCode>654</ISOCode>
+         <PhCode>290</PhCode>
+         <Population>7266</Population>
+         <Area>410</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saint Kitts and Nevis</DisplayName>
+         <ISOA2>kn</ISOA2>
+         <ISOA3>kna</ISOA3>
+         <FormalName>Federation of Saint Kitts and Nevis </FormalName>
+         <Capital>Basseterre</Capital>
+         <ISOCode>659</ISOCode>
+         <PhCode>1869</PhCode>
+         <Population>38756</Population>
+         <Area>261</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saint Lucia</DisplayName>
+         <ISOA2>lc</ISOA2>
+         <ISOA3>lca</ISOA3>
+         <Capital>Castries</Capital>
+         <ISOCode>662</ISOCode>
+         <PhCode>1758</PhCode>
+         <Population>158178</Population>
+         <Area>620</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saint Pierre and Miquelon</DisplayName>
+         <ISOA2>pm</ISOA2>
+         <ISOA3>spm</ISOA3>
+         <FormalName>Territorial Collectivity of Saint Pierre and Miquelon</FormalName>
+         <Capital>Saint-Pierre </Capital>
+         <ISOCode>666</ISOCode>
+         <PhCode>508</PhCode>
+         <Population>6928</Population>
+         <Area>242</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saint Vincent and the Grenadines</DisplayName>
+         <ISOA2>vc</ISOA2>
+         <ISOA3>vct</ISOA3>
+         <Capital>Kingstown</Capital>
+         <ISOCode>670</ISOCode>
+         <PhCode>1784</PhCode>
+         <Population>115942</Population>
+         <Area>389</Area>
+      </Country>
+      <Country>
+         <DisplayName>Samoa</DisplayName>
+         <ISOA2>ws</ISOA2>
+         <ISOA3>wsm</ISOA3>
+         <FormalName>Independent State of Samoa</FormalName>
+         <Capital>Apia </Capital>
+         <ISOCode>882</ISOCode>
+         <PhCode>685</PhCode>
+         <Population>179058</Population>
+         <Area>2860</Area>
+      </Country>
+      <Country>
+         <DisplayName>San Marino</DisplayName>
+         <ISOA2>sm</ISOA2>
+         <ISOA3>smr</ISOA3>
+         <FormalName>Republic of San Marino</FormalName>
+         <Capital>San Marino </Capital>
+         <ISOCode>674</ISOCode>
+         <PhCode>378</PhCode>
+         <Population>27336</Population>
+         <Area>61</Area>
+      </Country>
+      <Country>
+         <DisplayName>S&#227;o Tom&#233; and Pr&#237;ncipe</DisplayName>
+         <ISOA2>st</ISOA2>
+         <ISOA3>stp</ISOA3>
+         <FormalName>Democratic Republic of S&#227;o Tom&#233; and Pr&#237;ncipe</FormalName>
+         <Capital>S&#227;o Tom&#233;</Capital>
+         <ISOCode>678</ISOCode>
+         <PhCode>239</PhCode>
+         <Population>165034</Population>
+         <Area>1001</Area>
+      </Country>
+      <Country>
+         <DisplayName>Saudi Arabia</DisplayName>
+         <ISOA2>sa</ISOA2>
+         <ISOA3>sau</ISOA3>
+         <FormalName>Kingdom of Saudi Arabia</FormalName>
+         <Capital>Riyadh</Capital>
+         <ISOCode>682</ISOCode>
+         <PhCode>966</PhCode>
+         <Population>22757092</Population>
+         <Area>1960582</Area>
+      </Country>
+      <Country>
+         <DisplayName>Senegal</DisplayName>
+         <ISOA2>sn</ISOA2>
+         <ISOA3>sen</ISOA3>
+         <FormalName>Republic of Senegal</FormalName>
+         <Capital>Dakar</Capital>
+         <ISOCode>686</ISOCode>
+         <PhCode>221</PhCode>
+         <Population>10284929</Population>
+         <Area>196190</Area>
+      </Country>
+      <Country>
+         <DisplayName>Seychelles</DisplayName>
+         <ISOA2>sc</ISOA2>
+         <ISOA3>syc</ISOA3>
+         <FormalName>Republic of Seychelles</FormalName>
+         <Capital>Victoria</Capital>
+         <ISOCode>690</ISOCode>
+         <PhCode>248</PhCode>
+         <Population>79715</Population>
+         <Area>455</Area>
+      </Country>
+      <Country>
+         <DisplayName>Sierra Leone</DisplayName>
+         <ISOA2>sl</ISOA2>
+         <ISOA3>sle</ISOA3>
+         <FormalName>Republic of Sierra Leone</FormalName>
+         <Capital>Freetown</Capital>
+         <ISOCode>694</ISOCode>
+         <PhCode>232</PhCode>
+         <Population>5426618</Population>
+         <Area>71740</Area>
+      </Country>
+      <Country>
+         <DisplayName>Singapore</DisplayName>
+         <ISOA2>sg</ISOA2>
+         <ISOA3>sgp</ISOA3>
+         <FormalName>Republic of Singapore</FormalName>
+         <Capital>Singapore</Capital>
+         <ISOCode>702</ISOCode>
+         <PhCode>65</PhCode>
+         <Population>4300419</Population>
+         <Area>648</Area>
+      </Country>
+      <Country>
+         <DisplayName>Slovakia</DisplayName>
+         <ISOA2>sk</ISOA2>
+         <ISOA3>svk</ISOA3>
+         <FormalName>Slovak Republic</FormalName>
+         <Capital>Bratislava</Capital>
+         <ISOCode>703</ISOCode>
+         <PhCode>421</PhCode>
+         <Population>5414937</Population>
+         <Area>48845</Area>
+      </Country>
+      <Country>
+         <DisplayName>Slovenia</DisplayName>
+         <ISOA2>si</ISOA2>
+         <ISOA3>svn</ISOA3>
+         <FormalName>Republic of Slovenia</FormalName>
+         <Capital>Ljubljana </Capital>
+         <ISOCode>705</ISOCode>
+         <PhCode>386</PhCode>
+         <Population>1930132</Population>
+         <Area>20253</Area>
+      </Country>
+      <Country>
+         <DisplayName>Solomon Islands</DisplayName>
+         <ISOA2>sb</ISOA2>
+         <ISOA3>slb</ISOA3>
+         <Capital>Honiara</Capital>
+         <ISOCode>90</ISOCode>
+         <PhCode>677</PhCode>
+         <Population>480442</Population>
+         <Area>28450</Area>
+      </Country>
+      <Country>
+         <DisplayName>Somalia</DisplayName>
+         <ISOA2>so</ISOA2>
+         <ISOA3>som</ISOA3>
+         <FormalName>Somali Democratic Republic</FormalName>
+         <Capital>Mogadishu </Capital>
+         <ISOCode>706</ISOCode>
+         <PhCode>252</PhCode>
+         <Population>7488773</Population>
+         <Area>637657</Area>
+      </Country>
+      <Country>
+         <DisplayName>South Africa</DisplayName>
+         <ISOA2>za</ISOA2>
+         <ISOA3>zaf</ISOA3>
+         <FormalName>Republic of South Africa</FormalName>
+         <Capital>Pretoria</Capital>
+         <ISOCode>710</ISOCode>
+         <PhCode>27</PhCode>
+         <Population>43586097</Population>
+         <Area>1219912</Area>
+      </Country>
+      <Country>
+         <DisplayName>South Georgia and the South Sandwich Islands</DisplayName>
+         <ISOA2>gs</ISOA2>
+         <ISOA3>sgs</ISOA3>
+         <FormalName>South Georgia and the South Sandwich Islands</FormalName>
+         <ISOCode>239</ISOCode>
+         <Area>3903</Area>
+      </Country>
+      <Country>
+         <DisplayName>Spain</DisplayName>
+         <ISOA2>es</ISOA2>
+         <ISOA3>esp</ISOA3>
+         <FormalName>Kingdom of Spain</FormalName>
+         <Capital>Madrid</Capital>
+         <ISOCode>714</ISOCode>
+         <PhCode>34</PhCode>
+         <Population>40037995</Population>
+         <Area>504782</Area>
+      </Country>
+      <Country>
+         <DisplayName>Sri Lanka</DisplayName>
+         <ISOA2>lk</ISOA2>
+         <ISOA3>lka</ISOA3>
+         <FormalName>Democratic Socialist Republic of Sri Lanka</FormalName>
+         <Capital>Colombo </Capital>
+         <ISOCode>144</ISOCode>
+         <PhCode>94</PhCode>
+         <Population>19408635</Population>
+         <Area>65610</Area>
+      </Country>
+      <Country>
+         <DisplayName>Sudan</DisplayName>
+         <ISOA2>sd</ISOA2>
+         <ISOA3>sdn</ISOA3>
+         <FormalName>Republic of the Sudan</FormalName>
+         <Capital>Khartoum</Capital>
+         <ISOCode>736</ISOCode>
+         <PhCode>249</PhCode>
+         <Population>36080373</Population>
+         <Area>2505810</Area>
+      </Country>
+      <Country>
+         <DisplayName>Suriname</DisplayName>
+         <ISOA2>sr</ISOA2>
+         <ISOA3>sur</ISOA3>
+         <FormalName>Republic of Suriname</FormalName>
+         <Capital>Paramaribo </Capital>
+         <ISOCode>740</ISOCode>
+         <PhCode>597</PhCode>
+         <Population>433998</Population>
+         <Area>163270</Area>
+      </Country>
+      <Country>
+         <DisplayName>Svalbard and Jan Mayen</DisplayName>
+         <ISOA2>sj</ISOA2>
+         <ISOA3>sjm</ISOA3>
+         <Capital>Longyearbyen </Capital>
+         <ISOCode>744</ISOCode>
+         <Population>2332</Population>
+         <Area>62049</Area>
+      </Country>
+      <Country>
+         <DisplayName>Swaziland</DisplayName>
+         <ISOA2>sz</ISOA2>
+         <ISOA3>swz</ISOA3>
+         <FormalName>Kingdom of Swaziland</FormalName>
+         <Capital>Mbabane</Capital>
+         <ISOCode>748</ISOCode>
+         <PhCode>268</PhCode>
+         <Population>1104343</Population>
+         <Area>17363</Area>
+      </Country>
+      <Country>
+         <DisplayName>Sweden</DisplayName>
+         <ISOA2>se</ISOA2>
+         <ISOA3>swe</ISOA3>
+         <FormalName>Kingdom of Sweden</FormalName>
+         <Capital>Stockholm </Capital>
+         <ISOCode>752</ISOCode>
+         <PhCode>46</PhCode>
+         <Population>8875053</Population>
+         <Area>449964</Area>
+      </Country>
+      <Country>
+         <DisplayName>Switzerland</DisplayName>
+         <ISOA2>ch</ISOA2>
+         <ISOA3>che</ISOA3>
+         <FormalName>Swiss Confederation</FormalName>
+         <Capital>Bern </Capital>
+         <ISOCode>756</ISOCode>
+         <PhCode>41</PhCode>
+         <Population>7283274</Population>
+         <Area>41290</Area>
+      </Country>
+      <Country>
+         <DisplayName>Syrian Arab Republic</DisplayName>
+         <ISOA2>sy</ISOA2>
+         <ISOA3>syr</ISOA3>
+         <FormalName>Syrian Arab Republic</FormalName>
+         <Capital>Damascus </Capital>
+         <ISOCode>760</ISOCode>
+         <PhCode>963</PhCode>
+         <Population>16728808</Population>
+         <Area>185180</Area>
+      </Country>
+      <Country>
+         <DisplayName>Taiwan, Province Of China</DisplayName>
+         <ISOA2>tw</ISOA2>
+         <ISOA3>twn</ISOA3>
+         <FormalName>Taiwan, Province Of China</FormalName>
+         <Capital>Taipei</Capital>
+         <ISOCode>158</ISOCode>
+         <PhCode>886</PhCode>
+         <Population>22370461</Population>
+         <Area>35980</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tajikistan</DisplayName>
+         <ISOA2>tj</ISOA2>
+         <ISOA3>tjk</ISOA3>
+         <FormalName>Republic of Tajikistan</FormalName>
+         <Capital>Dushanbe </Capital>
+         <ISOCode>762</ISOCode>
+         <PhCode>992</PhCode>
+         <Population>6578681</Population>
+         <Area>143100</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tanzania, United Republic Of</DisplayName>
+         <ISOA2>tz</ISOA2>
+         <ISOA3>tza</ISOA3>
+         <FormalName>United Republic of Tanzania</FormalName>
+         <Capital>Dar es Salaam </Capital>
+         <ISOCode>834</ISOCode>
+         <PhCode>255</PhCode>
+         <Population>36232074</Population>
+         <Area>945087</Area>
+      </Country>
+      <Country>
+         <DisplayName>Thailand</DisplayName>
+         <ISOA2>th</ISOA2>
+         <ISOA3>tha</ISOA3>
+         <FormalName>Kingdom of Thailand</FormalName>
+         <Capital>Bangkok </Capital>
+         <ISOCode>764</ISOCode>
+         <PhCode>66</PhCode>
+         <Population>61797751</Population>
+         <Area>514000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Togo</DisplayName>
+         <ISOA2>tg</ISOA2>
+         <ISOA3>tgo</ISOA3>
+         <FormalName>Togolese Republic</FormalName>
+         <Capital>Lome</Capital>
+         <ISOCode>768</ISOCode>
+         <PhCode>228</PhCode>
+         <Population>5153088</Population>
+         <Area>56785</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tokelau</DisplayName>
+         <ISOA2>tk</ISOA2>
+         <ISOA3>tkl</ISOA3>
+         <ISOCode>772</ISOCode>
+         <PhCode>690</PhCode>
+         <Population>1445</Population>
+         <Area>10</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tonga</DisplayName>
+         <ISOA2>to</ISOA2>
+         <ISOA3>ton</ISOA3>
+         <FormalName>Kingdom of Tonga</FormalName>
+         <Capital>Nuku'alofa </Capital>
+         <ISOCode>776</ISOCode>
+         <PhCode>676</PhCode>
+         <Population>104227</Population>
+         <Area>748</Area>
+      </Country>
+      <Country>
+         <DisplayName>Trinidad and Tobago</DisplayName>
+         <ISOA2>tt</ISOA2>
+         <ISOA3>tto</ISOA3>
+         <FormalName>Republic of Trinidad and Tobago</FormalName>
+         <Capital>Port-of-Spain </Capital>
+         <ISOCode>780</ISOCode>
+         <PhCode>1868</PhCode>
+         <Population>1169682</Population>
+         <Area>5128</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tunisia</DisplayName>
+         <ISOA2>tn</ISOA2>
+         <ISOA3>tun</ISOA3>
+         <FormalName>Republic of Tunisia</FormalName>
+         <Capital>Tunis </Capital>
+         <ISOCode>788</ISOCode>
+         <PhCode>216</PhCode>
+         <Population>9705102</Population>
+         <Area>163610</Area>
+      </Country>
+      <Country>
+         <DisplayName>Turkey</DisplayName>
+         <ISOA2>tr</ISOA2>
+         <ISOA3>tur</ISOA3>
+         <FormalName>Republic of Turkey</FormalName>
+         <Capital>Ankara </Capital>
+         <ISOCode>792</ISOCode>
+         <PhCode>90</PhCode>
+         <Population>66493970</Population>
+         <Area>780580</Area>
+      </Country>
+      <Country>
+         <DisplayName>Turkmenistan</DisplayName>
+         <ISOA2>tm</ISOA2>
+         <ISOA3>tkm</ISOA3>
+         <Capital>Ashgabat </Capital>
+         <ISOCode>795</ISOCode>
+         <PhCode>993</PhCode>
+         <Population>4603244</Population>
+         <Area>488100</Area>
+      </Country>
+      <Country>
+         <DisplayName>Turks and Caicos Islands</DisplayName>
+         <ISOA2>tc</ISOA2>
+         <ISOA3>tca</ISOA3>
+         <Capital>Cockburn Town (on Grand Turk)</Capital>
+         <ISOCode>796</ISOCode>
+         <PhCode>1649</PhCode>
+         <Population>18122</Population>
+         <Area>430</Area>
+      </Country>
+      <Country>
+         <DisplayName>Tuvalu</DisplayName>
+         <ISOA2>tv</ISOA2>
+         <ISOA3>tuv</ISOA3>
+         <Capital>Funafuti</Capital>
+         <ISOCode>798</ISOCode>
+         <PhCode>688</PhCode>
+         <Population>10991</Population>
+         <Area>26</Area>
+      </Country>
+      <Country>
+         <DisplayName>Uganda</DisplayName>
+         <ISOA2>ug</ISOA2>
+         <ISOA3>uga</ISOA3>
+         <FormalName>Republic of Uganda</FormalName>
+         <Capital>Kampala</Capital>
+         <ISOCode>800</ISOCode>
+         <PhCode>256</PhCode>
+         <Population>23985712</Population>
+         <Area>236040</Area>
+      </Country>
+      <Country>
+         <DisplayName>Ukraine</DisplayName>
+         <ISOA2>ua</ISOA2>
+         <ISOA3>ukr</ISOA3>
+         <Capital>Kiev</Capital>
+         <ISOCode>804</ISOCode>
+         <PhCode>380</PhCode>
+         <Population>48760474</Population>
+         <Area>603700</Area>
+      </Country>
+      <Country>
+         <DisplayName>United Arab Emirates</DisplayName>
+         <ISOA2>ae</ISOA2>
+         <ISOA3>are</ISOA3>
+         <FormalName>United Arab Emirates</FormalName>
+         <Capital>Abu Dhabi </Capital>
+         <ISOCode>784</ISOCode>
+         <PhCode>971</PhCode>
+         <Population>2407460</Population>
+         <Area>82880</Area>
+      </Country>
+      <Country>
+         <DisplayName>United Kingdom</DisplayName>
+         <ISOA2>gb</ISOA2>
+         <ISOA3>gbr</ISOA3>
+         <FormalName>United Kingdom of Great Britian and Northern Ireland</FormalName>
+         <Capital>London</Capital>
+         <ISOCode>826</ISOCode>
+         <PhCode>44</PhCode>
+         <Population>59647790</Population>
+         <Area>244820</Area>
+      </Country>
+      <Country>
+         <DisplayName>United States</DisplayName>
+         <ISOA2>us</ISOA2>
+         <ISOA3>usa</ISOA3>
+         <FormalName>United States of America</FormalName>
+         <Capital>Washington, DC</Capital>
+         <ISOCode>840</ISOCode>
+         <PhCode>1</PhCode>
+         <Population>278058881</Population>
+         <Area>9629091</Area>
+      </Country>
+      <Country>
+         <DisplayName>United States Minor Outlying Islands</DisplayName>
+         <ISOA2>um</ISOA2>
+         <ISOA3>umi</ISOA3>
+         <ISOCode>581</ISOCode>
+      </Country>
+      <Country>
+         <DisplayName>Uruguay</DisplayName>
+         <ISOA2>uy</ISOA2>
+         <ISOA3>ury</ISOA3>
+         <FormalName>Oriental Republic of Uruguay</FormalName>
+         <Capital>Montevideo</Capital>
+         <ISOCode>858</ISOCode>
+         <PhCode>598</PhCode>
+         <Population>3360105</Population>
+         <Area>176220</Area>
+      </Country>
+      <Country>
+         <DisplayName>Uzbekistan</DisplayName>
+         <ISOA2>uz</ISOA2>
+         <ISOA3>uzb</ISOA3>
+         <FormalName>Republic of Uzbekistan</FormalName>
+         <Capital>Tashkent</Capital>
+         <ISOCode>860</ISOCode>
+         <PhCode>998</PhCode>
+         <Population>25155064</Population>
+         <Area>447400</Area>
+      </Country>
+      <Country>
+         <DisplayName>Vanuatu</DisplayName>
+         <ISOA2>vu</ISOA2>
+         <ISOA3>vut</ISOA3>
+         <FormalName>Republic of Vanuatu</FormalName>
+         <Capital>Port-Vila </Capital>
+         <ISOCode>548</ISOCode>
+         <PhCode>678</PhCode>
+         <Population>192910</Population>
+         <Area>12200</Area>
+      </Country>
+      <Country>
+         <DisplayName>Venezuela</DisplayName>
+         <ISOA2>ve</ISOA2>
+         <ISOA3>ven</ISOA3>
+         <FormalName>Bolivarian Republic of Venezuela</FormalName>
+         <Capital>Caracas</Capital>
+         <ISOCode>862</ISOCode>
+         <PhCode>58</PhCode>
+         <Population>23916810</Population>
+         <Area>912050</Area>
+      </Country>
+      <Country>
+         <DisplayName>Viet Nam</DisplayName>
+         <ISOA2>vn</ISOA2>
+         <ISOA3>vnm</ISOA3>
+         <FormalName>Socialist Republic of Viet Nam</FormalName>
+         <Capital>Hanoi</Capital>
+         <ISOCode>704</ISOCode>
+         <PhCode>84</PhCode>
+         <Population>79939014</Population>
+         <Area>329560</Area>
+      </Country>
+      <Country>
+         <DisplayName>Virgin Islands, British</DisplayName>
+         <ISOA2>vg</ISOA2>
+         <ISOA3>vgb</ISOA3>
+         <FormalName>British Virgin Islands</FormalName>
+         <Capital>Road Town</Capital>
+         <ISOCode>92</ISOCode>
+         <PhCode>1284</PhCode>
+         <Population>19156</Population>
+         <Area>150</Area>
+      </Country>
+      <Country>
+         <DisplayName>Virgin Islands, U.S.</DisplayName>
+         <ISOA2>vi</ISOA2>
+         <ISOA3>vir</ISOA3>
+         <FormalName>United States Virgin Islands</FormalName>
+         <Capital>Charlotte Amalie </Capital>
+         <ISOCode>850</ISOCode>
+         <PhCode>1340</PhCode>
+         <Population>122211</Population>
+         <Area>352</Area>
+      </Country>
+      <Country>
+         <DisplayName>Wallis and Futuna</DisplayName>
+         <ISOA2>wf</ISOA2>
+         <ISOA3>wlf</ISOA3>
+         <FormalName>Territory of the Wallis and Futuna Islands</FormalName>
+         <Capital>Mata-Utu</Capital>
+         <ISOCode>876</ISOCode>
+         <PhCode>681</PhCode>
+         <Population>15435</Population>
+         <Area>274</Area>
+      </Country>
+      <Country>
+         <DisplayName>Western Sahara</DisplayName>
+         <ISOA2>eh</ISOA2>
+         <ISOA3>esh</ISOA3>
+         <ISOCode>732</ISOCode>
+         <Population>250559</Population>
+         <Area>266000</Area>
+      </Country>
+      <Country>
+         <DisplayName>Yemen</DisplayName>
+         <ISOA2>ye</ISOA2>
+         <ISOA3>yem</ISOA3>
+         <FormalName>Republic of Yemen</FormalName>
+         <Capital>Sanaa</Capital>
+         <ISOCode>887</ISOCode>
+         <PhCode>967</PhCode>
+         <Population>18078035</Population>
+         <Area>527970</Area>
+      </Country>
+      <Country>
+         <DisplayName>Yugoslavia</DisplayName>
+         <ISOA2>yu</ISOA2>
+         <ISOA3>yug</ISOA3>
+         <FormalName>Federal Republic of Yugoslavia</FormalName>
+         <Capital>Belgrade</Capital>
+         <ISOCode>891</ISOCode>
+         <PhCode>381</PhCode>
+         <Population>10677290</Population>
+         <Area>102350</Area>
+      </Country>
+      <Country>
+         <DisplayName>Zambia</DisplayName>
+         <ISOA2>zm</ISOA2>
+         <ISOA3>zmb</ISOA3>
+         <FormalName>Republic of Zambia</FormalName>
+         <Capital>Lusaka</Capital>
+         <ISOCode>894</ISOCode>
+         <PhCode>260</PhCode>
+         <Population>9770199</Population>
+         <Area>752614</Area>
+      </Country>
+      <Country>
+         <DisplayName>Zimbabwe</DisplayName>
+         <ISOA2>zw</ISOA2>
+         <ISOA3>zwe</ISOA3>
+         <FormalName>Republic of Zimbabwe</FormalName>
+         <Capital>Harare</Capital>
+         <ISOCode>716</ISOCode>
+         <PhCode>263</PhCode>
+         <Population>11365366</Population>
+         <Area>390580</Area>
+      </Country>
+      <Country>
+         <DisplayName>France, Metropolitan</DisplayName>
+         <ISOA2>fx</ISOA2>
+         <ISOA3>fxx</ISOA3>
+         <ISOCode>249</ISOCode>
+         <PhCode>33</PhCode>
+      </Country>
+   </ESBCountries>
+</Root_Element>
